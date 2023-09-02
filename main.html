@@ -1,21 +1,22 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel = "stylesheet" href = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+<html>
+   <head>
+      <title>Leaflet sample</title>
+      <link rel = "stylesheet" href = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css"/>
+      <script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+   </head>
 
-    <script src = "http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+   <body>
+      <div id = "map" style = "width: 900px; height: 580px"></div>
+      <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+      <button id="stopsButton">Show Stops</button>
+      <script type="module" src="gatherer.js"></script>
+      <script type="module" src="map.js"></script>
+      
 
-
-    <title>My Webpage</title>
-</head>
-<body>
-    <div id = "map" style = "width: 900px; height: 580px"></div>
-    <script type="module" src="gatherer.js"></script>
-
-    <script type="module" src="map.js"></script>
-
-    
-</body>
+      <script>
+        
+      </script>
+   </body>
+   
 </html>

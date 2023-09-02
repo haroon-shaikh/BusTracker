@@ -1,0 +1,4343 @@
+{
+    "WILLIS AV/E 138 ST": [
+        "101072"
+    ],
+    "WILLIS AV/E 140 ST": [
+        "101015"
+    ],
+    "WILLIS AV/E 144 ST": [
+        "101069"
+    ],
+    "WILLIS AV/E 146 ST": [
+        "101018"
+    ],
+    "WILLIS AV/E 141 ST": [
+        "101071"
+    ],
+    "E 138 ST/3 AV": [
+        "101074"
+    ],
+    "LINCOLN AV/BRUCKNER Bl": [
+        "102839"
+    ],
+    "BERGEN AV/E 149 ST": [
+        "103708"
+    ],
+    "4 AV/E 10 ST": [
+        "400001"
+    ],
+    "4 AV/E 12 ST": [
+        "400002"
+    ],
+    "4 AV/E 13 ST": [
+        "400003"
+    ],
+    "PARK AV S/E 21 ST": [
+        "400007"
+    ],
+    "MADISON AV/E 63 ST": [
+        "405490"
+    ],
+    "MADISON AV/E 67 ST": [
+        "405489"
+    ],
+    "MADISON AV/E 69 ST": [
+        "400029"
+    ],
+    "MADISON AV/E 72 ST": [
+        "400030"
+    ],
+    "MADISON AV/E 74 ST": [
+        "400031"
+    ],
+    "MADISON AV/E 77 ST": [
+        "400032"
+    ],
+    "MADISON AV/E 83 ST": [
+        "400034"
+    ],
+    "MADISON AV/E 86 ST": [
+        "400036"
+    ],
+    "MADISON AV/E 89 ST": [
+        "400037"
+    ],
+    "MADISON AV/E 91 ST": [
+        "400038"
+    ],
+    "MADISON AV/E 93 ST": [
+        "400039"
+    ],
+    "MADISON AV/E 98 ST": [
+        "400041"
+    ],
+    "MADISON AV/E 101 ST": [
+        "400042"
+    ],
+    "MADISON AV/E 102 ST": [
+        "400043"
+    ],
+    "MADISON AV/E 104 ST": [
+        "400044"
+    ],
+    "MADISON AV/E 106 ST": [
+        "400045"
+    ],
+    "MADISON AV/E 107 ST": [
+        "400046"
+    ],
+    "MADISON AV/E 109 ST": [
+        "400047"
+    ],
+    "MADISON AV/E 112 ST": [
+        "400048"
+    ],
+    "MADISON AV/E 116 ST": [
+        "400050"
+    ],
+    "MADISON AV/E 118 ST": [
+        "400051"
+    ],
+    "MADISON AV/E 123 ST": [
+        "400053"
+    ],
+    "MADISON AV/E 125 ST": [
+        "400054"
+    ],
+    "MADISON AV/E 127 ST": [
+        "400055"
+    ],
+    "MADISON AV/E 129 ST": [
+        "400056"
+    ],
+    "MADISON AV/E 132 ST": [
+        "400057"
+    ],
+    "5 AV/E 135 ST": [
+        "400059"
+    ],
+    "5 AV/E 138 ST": [
+        "400060"
+    ],
+    "W 139 ST/5 AV": [
+        "400061"
+    ],
+    "MALCOLM X BL/W 139 ST": [
+        "404339"
+    ],
+    "MALCOLM X BL/W 145 ST": [
+        "400088"
+    ],
+    "W 147 ST/MALCOLM X BL": [
+        "400066"
+    ],
+    "W 147 ST/ADAM C POWELL BL": [
+        "400067"
+    ],
+    "TRINITY PL/RECTOR ST": [
+        "400070"
+    ],
+    "CHURCH ST/LIBERTY ST": [
+        "400071"
+    ],
+    "CLEVELAND  PL/SPRING ST": [
+        "400081"
+    ],
+    "LAFAYETTE ST/E HOUSTON ST": [
+        "400083"
+    ],
+    "LAFAYETTE ST/E 4 ST": [
+        "400085"
+    ],
+    "LAFAYETTE ST/ASTOR PL": [
+        "400086"
+    ],
+    "W 146 ST/MALCOLM X BL": [
+        "400087"
+    ],
+    "MALCOLM X BL/W 142 ST": [
+        "404335"
+    ],
+    "W 139 ST/MALCOLM X BL": [
+        "400091"
+    ],
+    "5 AV/W 138 ST": [
+        "400092"
+    ],
+    "5 AV/W 137 ST": [
+        "400093"
+    ],
+    "5 AV/W 135 ST": [
+        "400094"
+    ],
+    "5 AV/W 132 ST": [
+        "400095"
+    ],
+    "5 AV/W 130 ST": [
+        "400096"
+    ],
+    "5 AV/W 128 ST": [
+        "400097"
+    ],
+    "5 AV/W 125 ST": [
+        "400098"
+    ],
+    "MT MORRIS PK W/W 124 ST": [
+        "400099"
+    ],
+    "MT MORRIS PK W/W 121 ST": [
+        "400100"
+    ],
+    "W 120 ST/5 AV": [
+        "400101"
+    ],
+    "5 AV/W 118 ST": [
+        "400102"
+    ],
+    "5 AV/W 116 ST": [
+        "400103"
+    ],
+    "5 AV/W 112 ST": [
+        "400105"
+    ],
+    "5 AV/EAST 109 ST": [
+        "400107"
+    ],
+    "5 AV/E 108 ST": [
+        "400108"
+    ],
+    "5 AV/E 106 ST": [
+        "400109"
+    ],
+    "5 AV/E 104 ST": [
+        "400110"
+    ],
+    "5 AV/E 102 ST": [
+        "400111"
+    ],
+    "5 AV/E 94 ST": [
+        "400115"
+    ],
+    "5 AV/E 92 ST": [
+        "400116"
+    ],
+    "5 AV/E 90 ST": [
+        "400117"
+    ],
+    "5 AV/E 87 ST": [
+        "400118"
+    ],
+    "5 AV/E 84 ST": [
+        "400119"
+    ],
+    "5 AV/E 80 ST": [
+        "400120"
+    ],
+    "5 AV/E 79 ST": [
+        "400121"
+    ],
+    "5 AV/E 77 ST": [
+        "400122"
+    ],
+    "5 AV/E 75 ST": [
+        "400123"
+    ],
+    "5 AV/E 72 ST": [
+        "400124"
+    ],
+    "5 AV/E 69 ST": [
+        "405491"
+    ],
+    "5 AV/E 65 ST": [
+        "400126"
+    ],
+    "5 AV/E 63 ST": [
+        "400127"
+    ],
+    "5 AV/E 61 ST": [
+        "400128"
+    ],
+    "BROADWAY/WAVERLY PL": [
+        "400153"
+    ],
+    "BROADWAY/W 3 ST": [
+        "400154"
+    ],
+    "BROADWAY/BLEECKER ST": [
+        "400155"
+    ],
+    "BROADWAY/SPRING ST": [
+        "400157"
+    ],
+    "BROADWAY/GRAND ST": [
+        "400159"
+    ],
+    "BROADWAY/PARK PL": [
+        "400166"
+    ],
+    "BROADWAY/CORTLANDT ST": [
+        "400168"
+    ],
+    "BROADWAY/RECTOR ST": [
+        "400170"
+    ],
+    "E 9 ST/BROADWAY": [
+        "400176"
+    ],
+    "CENTRAL PK N/MALCOLM X BL": [
+        "404278"
+    ],
+    "CENTRAL PK N/ADAM C POWELL BL": [
+        "400290"
+    ],
+    "ADAM C POWELL BL/W 113 ST": [
+        "400226"
+    ],
+    "ADAM C POWELL BL/W 137 ST": [
+        "400227"
+    ],
+    "ADAM C POWELL BL/W 116 ST": [
+        "400287"
+    ],
+    "ADAM C POWELL BL/W 121 ST": [
+        "400230"
+    ],
+    "ADAM C POWELL BL/W 123 ST": [
+        "400231"
+    ],
+    "ADAM C POWELL BL/W 127 ST": [
+        "400233"
+    ],
+    "ADAM C POWELL BL/W 129 ST": [
+        "400234"
+    ],
+    "ADAM C POWELL BL/W 131 ST": [
+        "400235"
+    ],
+    "ADAM C POWELL BL/W 133 ST": [
+        "400236"
+    ],
+    "ADAM C POWELL BL/W 135 ST": [
+        "400279"
+    ],
+    "ADAM C POWELL BL/W 139 ST": [
+        "400238"
+    ],
+    "ADAM C POWELL BL/W 141 ST": [
+        "400239"
+    ],
+    "ADAM C POWELL BL/W 143 ST": [
+        "400240"
+    ],
+    "ADAM C POWELL BL/W 145 ST": [
+        "400275"
+    ],
+    "ADAM C POWELL BL/W 147 ST": [
+        "400242"
+    ],
+    "EDGECOMBE AV/W 155 ST": [
+        "400267"
+    ],
+    "EDGECOMBE AV/W 158 ST": [
+        "400266"
+    ],
+    "EDGECOMBE AV/W 160 ST": [
+        "400265"
+    ],
+    "EDGECOMBE AV/W 162 ST": [
+        "400264"
+    ],
+    "EDGECOMBE AV/W 164 ST": [
+        "400263"
+    ],
+    "BROADWAY/W 168 ST": [
+        "400624"
+    ],
+    "W 166 ST/ST NICHOLAS AV": [
+        "400259"
+    ],
+    "W 155 ST/EDGECOMBE AV": [
+        "400268"
+    ],
+    "ADAM C POWELL BL/W 154 ST": [
+        "400271"
+    ],
+    "ADAM C POWELL BL/W 151 ST": [
+        "403338"
+    ],
+    "ADAM C POWELL BL/W 149 ST": [
+        "404129"
+    ],
+    "ADAM C POWELL BL/W 148 ST": [
+        "400274"
+    ],
+    "ADAM C POWELL BL/W 142 ST": [
+        "400276"
+    ],
+    "ADAM C POWELL BL/W 140 ST": [
+        "400277"
+    ],
+    "ADAM C POWELL BL/W 138 ST": [
+        "400278"
+    ],
+    "ADAM C POWELL BL/W 132 ST": [
+        "400280"
+    ],
+    "ADAM C POWELL BL/W 130 ST": [
+        "400281"
+    ],
+    "ADAM C POWELL BL/W 128 ST": [
+        "400282"
+    ],
+    "ADAM C POWELL BL/W 125 ST": [
+        "404283"
+    ],
+    "ADAM C POWELL BL/W 122 ST": [
+        "400284"
+    ],
+    "ADAM C POWELL BL/W 120 ST": [
+        "400285"
+    ],
+    "ADAM C POWELL BL/W 114 ST": [
+        "400288"
+    ],
+    "ADAM C POWELL BL/W 112 ST": [
+        "400289"
+    ],
+    "CENTRAL PK N/5 AV": [
+        "403267"
+    ],
+    "5 AV/W 39 ST": [
+        "400322"
+    ],
+    "5 AV/W 35 ST": [
+        "400323"
+    ],
+    "5 AV/W 33 ST": [
+        "400324"
+    ],
+    "5 AV/W 31 ST": [
+        "400325"
+    ],
+    "5 AV/W 29 ST": [
+        "400326"
+    ],
+    "5 AV/W 26 ST": [
+        "400327"
+    ],
+    "5 AV/W 23 ST": [
+        "400329"
+    ],
+    "5 AV/W 20 ST": [
+        "400330"
+    ],
+    "5 AV/W 17 ST": [
+        "400331"
+    ],
+    "5 AV/W 12 ST": [
+        "400333"
+    ],
+    "5 AV/W 10 ST": [
+        "400334"
+    ],
+    "E 8 ST/5 AV": [
+        "400335"
+    ],
+    "E 8 ST/UNIVERSITY PL": [
+        "400336"
+    ],
+    "E 8 ST/MERCER ST": [
+        "400337"
+    ],
+    "MADISON AV/E 30 ST": [
+        "400352"
+    ],
+    "32 ST/MADISON AV": [
+        "400353"
+    ],
+    "MADISON AV/E 34 ST": [
+        "400354"
+    ],
+    "MADISON AV/E 45 ST": [
+        "400358"
+    ],
+    "MADISON AV/E 49 ST": [
+        "400360"
+    ],
+    "MADISON AV/E 52 ST": [
+        "400361"
+    ],
+    "MADISON AV/E 55  ST": [
+        "400362"
+    ],
+    "MADISON AV/E 57 ST": [
+        "400363"
+    ],
+    "MADISON AV/E 60  ST": [
+        "400364"
+    ],
+    "CATHEDRAL PY/FRED DOUGLASS BL": [
+        "400390"
+    ],
+    "MANHATTAN AV/W 116 ST": [
+        "400482"
+    ],
+    "MANHATTAN AV/W 119 ST": [
+        "405093"
+    ],
+    "MANHATTAN AV/W 121 ST": [
+        "400396"
+    ],
+    "ST NICHOLAS AV/W 125 ST": [
+        "400477"
+    ],
+    "ST NICHOLAS AV/W 127 ST": [
+        "400398"
+    ],
+    "ST NICHOLAS AV/W 130 ST": [
+        "400475"
+    ],
+    "ST NICHOLAS AV/W 133 ST": [
+        "400474"
+    ],
+    "ST NICHOLAS AV/W 135 ST": [
+        "400473"
+    ],
+    "ST NICHOLAS AV/W 139 ST": [
+        "400403"
+    ],
+    "ST NICHOLAS AV/W 141 ST": [
+        "400471"
+    ],
+    "ST NICHOLAS AV/W 144 ST": [
+        "400405"
+    ],
+    "ST NICHOLAS AV/W 145 ST": [
+        "400469"
+    ],
+    "ST NICHOLAS AV/W 151 ST": [
+        "400408"
+    ],
+    "ST NICHOLAS AV/W 153 ST": [
+        "400409"
+    ],
+    "ST NICHOLAS AV/W 163 ST": [
+        "400414"
+    ],
+    "ST NICHOLAS AV/W 170 ST": [
+        "400418"
+    ],
+    "ST NICHOLAS AV/W 173 ST": [
+        "400419"
+    ],
+    "ST NICHOLAS AV/W 179 ST": [
+        "400422"
+    ],
+    "ST NICHOLAS AV/W 181 ST": [
+        "400453"
+    ],
+    "ST NICHOLAS AV/W 187 ST": [
+        "403978"
+    ],
+    "ST NICHOLAS AV/W 192 ST": [
+        "400448"
+    ],
+    "ST NICHOLAS AV/W 190 ST": [
+        "400449"
+    ],
+    "ST NICHOLAS AV/W 184 ST": [
+        "403976"
+    ],
+    "ST NICHOLAS AV/W 178 ST": [
+        "400454"
+    ],
+    "ST NICHOLAS AV/W 172 ST": [
+        "400457"
+    ],
+    "ST NICHOLAS AV/W 164 ST": [
+        "400461"
+    ],
+    "ST NICHOLAS AV/W 162 ST": [
+        "400462"
+    ],
+    "ST NICHOLAS AV/W 152 ST": [
+        "400466"
+    ],
+    "ST NICHOLAS AV/W 150 ST": [
+        "400467"
+    ],
+    "ST NICHOLAS AV/W 148 ST": [
+        "400468"
+    ],
+    "ST NICHOLAS AV/W 142 ST": [
+        "400470"
+    ],
+    "ST NICHOLAS AV/W 138 ST": [
+        "400472"
+    ],
+    "ST NICHOLAS AV/W 128 ST": [
+        "400476"
+    ],
+    "MANHATTAN AV/W 122 ST": [
+        "400479"
+    ],
+    "MANHATTAN AV/W 114 ST": [
+        "400483"
+    ],
+    "MANHATTAN AV/W 112 ST": [
+        "400484"
+    ],
+    "CATHEDRAL PKY/MANHATTAN AV": [
+        "400485"
+    ],
+    "110 ST/CENTRAL PK W": [
+        "400486"
+    ],
+    "5 AV/W 59 ST": [
+        "400512"
+    ],
+    "5 AV/W 52 ST": [
+        "400514"
+    ],
+    "5 AV/W 49 ST": [
+        "400515"
+    ],
+    "5 AV/W 46 ST": [
+        "400516"
+    ],
+    "5 AV/W 41 ST": [
+        "400518"
+    ],
+    "5 AV/W 38 ST": [
+        "400519"
+    ],
+    "MADISON AV/E 42 ST": [
+        "400561"
+    ],
+    "CATHEDRAL PY/MANHATTAN AV": [
+        "400595"
+    ],
+    "CATHEDRAL PY/MORNINGSIDE DR": [
+        "400596"
+    ],
+    "CATHEDRAL PY/AMSTERDAM AV": [
+        "400597"
+    ],
+    "CATHEDRAL PY/BROADWAY": [
+        "400676"
+    ],
+    "RIVERSIDE DR/W 112 ST": [
+        "400836"
+    ],
+    "RIVERSIDE DR/W 119 ST": [
+        "400832"
+    ],
+    "BROADWAY/W 137 ST": [
+        "400609"
+    ],
+    "BROADWAY/W 139 ST": [
+        "400610"
+    ],
+    "BROADWAY/W 141 ST": [
+        "400611"
+    ],
+    "BROADWAY/W 143 ST": [
+        "400612"
+    ],
+    "BROADWAY/W 145 ST": [
+        "403483"
+    ],
+    "BROADWAY/W 147 ST": [
+        "400659"
+    ],
+    "BROADWAY/W 149 ST": [
+        "400615"
+    ],
+    "BROADWAY/W 151 ST": [
+        "400616"
+    ],
+    "BROADWAY/W 153 ST": [
+        "400617"
+    ],
+    "BROADWAY/W 155 ST": [
+        "400656"
+    ],
+    "BROADWAY/W 157 ST": [
+        "400655"
+    ],
+    "BROADWAY/W 159 ST": [
+        "400620"
+    ],
+    "BROADWAY/W 161 ST": [
+        "400621"
+    ],
+    "BROADWAY/W 163 ST": [
+        "400622"
+    ],
+    "BROADWAY/W 165 ST": [
+        "400623"
+    ],
+    "FT WASHINGTON AV/W 171 ST": [
+        "400626"
+    ],
+    "FT WASHINGTON AV/W 173 ST": [
+        "400627"
+    ],
+    "FT WASHINGTON AV/W 175 ST": [
+        "400628"
+    ],
+    "FT WASHINGTON AV/W 177 ST": [
+        "400646"
+    ],
+    "FT WASHINGTON AV/W 179 ST": [
+        "400645"
+    ],
+    "FT WASHINGTON AV/W 181 ST": [
+        "400644"
+    ],
+    "FT WASHINGTON AV/W 183 ST": [
+        "400643"
+    ],
+    "FT WASHINGTON AV/W 185 ST": [
+        "400642"
+    ],
+    "FT WASHINGTON AV/W 187 ST": [
+        "400641"
+    ],
+    "FT WASHINGTON AV/W 190 ST": [
+        "400640"
+    ],
+    "FT WASHINGTON AV/CABRINI BL": [
+        "400639"
+    ],
+    "FT WASHINGTON AV/W 174 ST": [
+        "400647"
+    ],
+    "FT WASHINGTON AV/W 172 ST": [
+        "400648"
+    ],
+    "FT WASHINGTON AV/W 170 ST": [
+        "400649"
+    ],
+    "BROADWAY/W 152 ST": [
+        "400657"
+    ],
+    "BROADWAY/W 150 ST": [
+        "400658"
+    ],
+    "BROADWAY/W 142 ST": [
+        "400661"
+    ],
+    "BROADWAY/W 140 ST": [
+        "400662"
+    ],
+    "BROADWAY/W 138 ST": [
+        "400663"
+    ],
+    "CATHEDRAL PKY/AMSTERDAM AV": [
+        "400677"
+    ],
+    "CATHEDRAL PY/COLUMBUS AV": [
+        "400678"
+    ],
+    "W 34 ST/BROADWAY": [
+        "401821"
+    ],
+    "W HOUSTON ST/SULLIVAN ST": [
+        "402023"
+    ],
+    "W HOUSTON ST/BROADWAY": [
+        "400720"
+    ],
+    "AV OF THE AMERICAS/W 3 ST": [
+        "400722"
+    ],
+    "AV OF THE AMERICAS/WAVERLY PL": [
+        "400723"
+    ],
+    "AV OF THE AMERICAS/W 10 ST": [
+        "400724"
+    ],
+    "AV OF THE AMERICAS/W 12 ST": [
+        "400725"
+    ],
+    "AV OF THE AMERICAS/W 15 ST": [
+        "400726"
+    ],
+    "AV OF THE AMERICAS/W 27 ST": [
+        "400731"
+    ],
+    "AV OF THE AMERICAS/W 29 ST": [
+        "400732"
+    ],
+    "W 57 ST/7 AV": [
+        "403736"
+    ],
+    "W 57 ST/BROADWAY": [
+        "400745"
+    ],
+    "BROADWAY/W 63 ST": [
+        "404138"
+    ],
+    "BROADWAY/W 69 ST": [
+        "400750"
+    ],
+    "W 72 ST/BROADWAY": [
+        "405237"
+    ],
+    "W 72 ST/WEST END AV": [
+        "400853"
+    ],
+    "RIVERSIDE DR/W 77 ST": [
+        "400755"
+    ],
+    "RIVERSIDE DR/W 79 ST": [
+        "400756"
+    ],
+    "RIVERSIDE DR/W 85 ST": [
+        "400759"
+    ],
+    "RIVERSIDE DR/W 87 ST": [
+        "400760"
+    ],
+    "RIVERSIDE DR/W 89 ST": [
+        "404855"
+    ],
+    "RIVERSIDE DR/W 91 ST": [
+        "400843"
+    ],
+    "RIVERSIDE DR/W 97 ST": [
+        "400841"
+    ],
+    "RIVERSIDE DR/W 106 ST": [
+        "400838"
+    ],
+    "RIVERSIDE DR/W 108 ST": [
+        "400837"
+    ],
+    "RIVERSIDE DR/W 114 ST": [
+        "400835"
+    ],
+    "RIVERSIDE DR/W 116 ST": [
+        "400834"
+    ],
+    "BROADWAY/W 171 ST": [
+        "400796"
+    ],
+    "BROADWAY/W 175 ST": [
+        "400798"
+    ],
+    "W 178 ST/BROADWAY": [
+        "903231"
+    ],
+    "BROADWAY/W 178 ST": [
+        "400808"
+    ],
+    "BROADWAY/W 176 ST": [
+        "400809"
+    ],
+    "BROADWAY/W 174 ST": [
+        "400810"
+    ],
+    "BROADWAY/W 172 ST": [
+        "400811"
+    ],
+    "BROADWAY/W 170 ST": [
+        "400812"
+    ],
+    "BROADWAY/W 164 ST": [
+        "400814"
+    ],
+    "BROADWAY/W 162 ST": [
+        "400815"
+    ],
+    "BROADWAY/W 160 ST": [
+        "400816"
+    ],
+    "RIVERSIDE DR/W 100 ST": [
+        "403902"
+    ],
+    "RIVERSIDE DR/W 86 ST": [
+        "400846"
+    ],
+    "RIVERSIDE DR/W 84 ST": [
+        "400847"
+    ],
+    "RIVERSIDE DR/W 82 ST": [
+        "404290"
+    ],
+    "RIVERSIDE DR/W 80 ST": [
+        "400849"
+    ],
+    "RIVERSIDE DR/W 76 ST": [
+        "400851"
+    ],
+    "RIVERSIDE DR/W 73 ST": [
+        "400852"
+    ],
+    "BROADWAY/W 68 ST": [
+        "400856"
+    ],
+    "BROADWAY/W 64 ST": [
+        "400858"
+    ],
+    "BROADWAY/W 61 ST": [
+        "401016"
+    ],
+    "COLUMBUS CIR/8 AV": [
+        "400861"
+    ],
+    "STATE ST/BRIDGE ST": [
+        "403953"
+    ],
+    "CHURCH ST/CHAMBERS ST": [
+        "400910"
+    ],
+    "AV OF THE AMERICAS/WHITE ST": [
+        "400913"
+    ],
+    "8 AV/BROOME ST": [
+        "400916"
+    ],
+    "6 AV/SPRING ST": [
+        "404895"
+    ],
+    "6 AV/W HOUSTON ST": [
+        "400919"
+    ],
+    "AV OF THE AMERICAS/W 23 ST": [
+        "400929"
+    ],
+    "AV OF THE AMERICAS/W 34 ST": [
+        "400933"
+    ],
+    "AV OF THE AMERICAS/W 42 ST": [
+        "400936"
+    ],
+    "AV OF THE AMERICAS/W 47 ST": [
+        "400938"
+    ],
+    "6 AV /W 51 ST": [
+        "400940"
+    ],
+    "AV OF THE AMERICAS/W 54 ST": [
+        "400941"
+    ],
+    "CENTRAL PK S/6 AV": [
+        "400943"
+    ],
+    "7 AV/WEST 58 ST": [
+        "400948"
+    ],
+    "7 AV/W 54 ST": [
+        "400950"
+    ],
+    "7 AV/W 53 ST": [
+        "400951"
+    ],
+    "BROADWAY/THAMES ST": [
+        "400988"
+    ],
+    "CENTRAL PK S/7 AV": [
+        "401014"
+    ],
+    "CENTRAL PK S/COLUMBUS CI": [
+        "403781"
+    ],
+    "AMSTERDAM AV/W 72 ST": [
+        "401021"
+    ],
+    "AMSTERDAM AV/W 75 ST": [
+        "401022"
+    ],
+    "AMSTERDAM AV/W 77 ST": [
+        "401023"
+    ],
+    "AMSTERDAM AV/W 79 ST": [
+        "401024"
+    ],
+    "AMSTERDAM AV/W 81 ST": [
+        "401025"
+    ],
+    "AMSTERDAM AV/W 83 ST": [
+        "401026"
+    ],
+    "AMSTERDAM AV/W 86 ST": [
+        "401027"
+    ],
+    "AMSTERDAM AV/W 91 ST": [
+        "401029"
+    ],
+    "AMSTERDAM AV/W 93 ST": [
+        "401030"
+    ],
+    "AMSTERDAM AV/W 96 ST": [
+        "401031"
+    ],
+    "AMSTERDAM AV/W 98 ST": [
+        "401032"
+    ],
+    "AMSTERDAM AV/W 100 ST": [
+        "401033"
+    ],
+    "AMSTERDAM AV/W 102 ST": [
+        "401034"
+    ],
+    "AMSTERDAM AV/W 104 ST": [
+        "401035"
+    ],
+    "W 106 ST/AMSTERDAM AV": [
+        "402017"
+    ],
+    "W 106 ST/COLUMBUS AV": [
+        "402016"
+    ],
+    "MANHATTAN AV/W 106 ST": [
+        "401085"
+    ],
+    "MANHATTAN AV/W 109 ST": [
+        "401039"
+    ],
+    "MANHATTAN AV/CATHEDRAL PKY": [
+        "401040"
+    ],
+    "W 116 ST/FRED DOUGLASS BL": [
+        "401079"
+    ],
+    "W 116 ST/ADAM C POWELL BL": [
+        "401045"
+    ],
+    "MALCOLM X BL/W 119 ST": [
+        "401047"
+    ],
+    "MALCOLM X BL/W 127 ST": [
+        "404336"
+    ],
+    "MALCOLM X BL/W 129 ST": [
+        "404337"
+    ],
+    "MALCOLM X BL/W 135 ST": [
+        "401069"
+    ],
+    "MALCOLM X BL/W 137 ST": [
+        "404338"
+    ],
+    "MALCOLM X BL/W 132 ST": [
+        "405014"
+    ],
+    "MALCOLM X BL/W 122 ST": [
+        "404333"
+    ],
+    "W 116 ST/ST NICHOLAS AV": [
+        "401078"
+    ],
+    "MANHATTAN AV/W 108 ST": [
+        "401084"
+    ],
+    "COLUMBUS AV/W 106 ST": [
+        "401086"
+    ],
+    "COLUMBUS AV/W 102 ST": [
+        "401087"
+    ],
+    "COLUMBUS AV/W 100 ST": [
+        "401088"
+    ],
+    "COLUMBUS AV/W 94 ST": [
+        "401090"
+    ],
+    "COLUMBUS AV/W 92 ST": [
+        "401091"
+    ],
+    "COLUMBUS AV/W 89 ST": [
+        "401092"
+    ],
+    "COLUMBUS AV/W 86 ST": [
+        "401093"
+    ],
+    "COLUMBUS AV/W 84 ST": [
+        "401094"
+    ],
+    "COLUMBUS AV/W 78 ST": [
+        "401096"
+    ],
+    "COLUMBUS AV/W 72 ST": [
+        "401099"
+    ],
+    "COLUMBUS AV/W 69 ST": [
+        "401100"
+    ],
+    "GRAND ST/CLINTON ST": [
+        "401150"
+    ],
+    "GRAND ST/PITT ST": [
+        "401149"
+    ],
+    "GRAND ST/EAST BROADWAY": [
+        "401141"
+    ],
+    "GRAND ST/JACKSON ST": [
+        "401142"
+    ],
+    "GRAND ST/COLUMBIA ST": [
+        "401147"
+    ],
+    "E BROADWAY/FORSYTH ST": [
+        "401168"
+    ],
+    "E BROADWAY/PIKE ST": [
+        "401208"
+    ],
+    "E 14 ST/AV B": [
+        "401195"
+    ],
+    "E 14 ST/AV A": [
+        "401194"
+    ],
+    "E 14 ST/3 AV": [
+        "403871"
+    ],
+    "E 14 ST/2 AV": [
+        "403870"
+    ],
+    "E 14 ST/1 AV": [
+        "404029"
+    ],
+    "ESSEX ST/E HOUSTON ST": [
+        "401202"
+    ],
+    "ESSEX ST/GRAND ST": [
+        "403317"
+    ],
+    "E BROADWAY/MARKET ST": [
+        "401209"
+    ],
+    "E BROADWAY/CATHERINE ST": [
+        "405006"
+    ],
+    "HUDSON ST/PERRY ST": [
+        "401220"
+    ],
+    "8 AV/W 14 ST": [
+        "401223"
+    ],
+    "8 AV/W 17 ST": [
+        "401224"
+    ],
+    "8 AV/W 20 ST": [
+        "401225"
+    ],
+    "8 AV/W 23 ST": [
+        "401226"
+    ],
+    "8 AV/W 25 ST": [
+        "401227"
+    ],
+    "8 AV/W 28 ST": [
+        "401229"
+    ],
+    "8 AV/W 34 ST": [
+        "803098"
+    ],
+    "8 AV/W 37 ST": [
+        "401232"
+    ],
+    "8 AV/W 52 ST": [
+        "401239"
+    ],
+    "CENTRAL PK W/W 67 ST": [
+        "401245"
+    ],
+    "CENTRAL PK W/W 72 ST": [
+        "401343"
+    ],
+    "CENTRAL PK W/W 77 ST": [
+        "401341"
+    ],
+    "CENTRAL PK W/W 82 ST": [
+        "401252"
+    ],
+    "CENTRAL PK W/W 84 ST": [
+        "401338"
+    ],
+    "CENTRAL PK W/W 87 ST": [
+        "401254"
+    ],
+    "CENTRAL PK W/W 88 ST": [
+        "401336"
+    ],
+    "CENTRAL PK W/W 90 ST": [
+        "401335"
+    ],
+    "CENTRAL PK W/W 92 ST": [
+        "401334"
+    ],
+    "CENTRAL PK W/W 94 ST": [
+        "401333"
+    ],
+    "CENTRAL PK W/W 97 ST": [
+        "401331"
+    ],
+    "CENTRAL PK W/W 100 ST": [
+        "401330"
+    ],
+    "CENTRAL PK W/W 102 ST": [
+        "401329"
+    ],
+    "CENTRAL PK W/W 104 ST": [
+        "401328"
+    ],
+    "CENTRAL PK W/W 106 ST": [
+        "401264"
+    ],
+    "CENTRAL PK W/W 108 ST": [
+        "401326"
+    ],
+    "FRED DOUGLASS BL/W 111 ST": [
+        "401267"
+    ],
+    "FRED DOUGLASS BL/W 113 ST": [
+        "401268"
+    ],
+    "FRED DOUGLASS BL/W 116 ST": [
+        "401269"
+    ],
+    "FRED DOUGLASS BL/W 119 ST": [
+        "404245"
+    ],
+    "FRED DOUGLASS BL/W 121 ST": [
+        "401271"
+    ],
+    "FRED DOUGLASS BL/W 123 ST": [
+        "401272"
+    ],
+    "FRED DOUGLASS BL/W 127 ST": [
+        "401274"
+    ],
+    "FRED DOUGLASS BL/W 129 ST": [
+        "401317"
+    ],
+    "FRED DOUGLASS BL/W 131 ST": [
+        "401276"
+    ],
+    "FRED DOUGLASS BL/W 133 ST": [
+        "401315"
+    ],
+    "FRED DOUGLASS BL/W 141 ST": [
+        "401281"
+    ],
+    "FRED DOUGLASS BL/W 143 ST": [
+        "401282"
+    ],
+    "FRED DOUGLASS BL/W 153 ST": [
+        "401286"
+    ],
+    "FRED DOUGLASS BL/W 155 ST": [
+        "401305"
+    ],
+    "FRED DOUGLASS BL/W 158 ST": [
+        "404135"
+    ],
+    "W 14 ST/7 AV": [
+        "403896"
+    ],
+    "HUDSON ST/CHARLTON ST": [
+        "401301"
+    ],
+    "HUDSON ST/W HOUSTON ST": [
+        "401302"
+    ],
+    "FRED DOUGLASS BL/W 154 ST": [
+        "401306"
+    ],
+    "FRED DOUGLASS BL/W 152 ST": [
+        "401307"
+    ],
+    "FRED DOUGLASS BL/W 150 ST": [
+        "401308"
+    ],
+    "FRED DOUGLASS BL/W 145 ST": [
+        "403826"
+    ],
+    "FRED DOUGLASS BL/W 142 ST": [
+        "401311"
+    ],
+    "FRED DOUGLASS BL/W 140 ST": [
+        "401312"
+    ],
+    "FRED DOUGLASS BL/W 138 ST": [
+        "403832"
+    ],
+    "FRED DOUGLASS BL/W 135 ST": [
+        "403982"
+    ],
+    "FRED DOUGLASS BL/W 125 ST": [
+        "405182"
+    ],
+    "FRED DOUGLASS BL/W 112 ST": [
+        "401324"
+    ],
+    "CENTRAL PK W/W 86 ST": [
+        "401337"
+    ],
+    "CENTRAL PK W/W 81 ST": [
+        "401339"
+    ],
+    "CENTRAL PK W/W 74 ST": [
+        "401342"
+    ],
+    "CENTRAL PK W/W 70 ST": [
+        "401344"
+    ],
+    "CENTRAL PK W/W 68 ST": [
+        "401345"
+    ],
+    "7 AV/W 37 ST": [
+        "401359"
+    ],
+    "7 AV/W 34 ST": [
+        "401360"
+    ],
+    "7 AV/W 31 ST": [
+        "401361"
+    ],
+    "7 AV/W 28 ST": [
+        "401363"
+    ],
+    "7 AV/W 25 ST": [
+        "401364"
+    ],
+    "7 AV/W 20 ST": [
+        "401366"
+    ],
+    "7 AV S/WAVERLY PL": [
+        "401371"
+    ],
+    "7 AV S/W 10 ST": [
+        "401372"
+    ],
+    "7 AV S/BARROW ST": [
+        "401373"
+    ],
+    "7 AV S/BEDFORD ST": [
+        "401374"
+    ],
+    "7 AV S/CLARKSON ST": [
+        "401375"
+    ],
+    "VARICK ST/CHARLTON ST": [
+        "401377"
+    ],
+    "VARICK ST/WATTS ST": [
+        "401379"
+    ],
+    "VARICK ST/NORTH MOORE ST": [
+        "401380"
+    ],
+    "W BROADWAY/DUANE ST": [
+        "401381"
+    ],
+    "HUDSON ST/W 13 ST": [
+        "405133"
+    ],
+    "HUDSON ST/HORATIO ST": [
+        "401387"
+    ],
+    "HUDSON ST/W 12 ST": [
+        "401388"
+    ],
+    "BETHUNE ST/GREENWICH ST": [
+        "401393"
+    ],
+    "10 AV/W 21 ST": [
+        "401398"
+    ],
+    "10 AV/W 25 ST": [
+        "401400"
+    ],
+    "10 AV/W 27 ST": [
+        "401401"
+    ],
+    "10 AV/W 30 ST": [
+        "401402"
+    ],
+    "10 AV/W 42 ST": [
+        "401407"
+    ],
+    "10 AV/W 45 ST": [
+        "401408"
+    ],
+    "10 AV/W 47 ST": [
+        "401409"
+    ],
+    "10 AV/W 49 ST": [
+        "401410"
+    ],
+    "10 AV/W 53 ST": [
+        "401411"
+    ],
+    "10 AV/W 55 ST": [
+        "401412"
+    ],
+    "10 AV/W 57 ST": [
+        "401413"
+    ],
+    "AMSTERDAM AV/W 59 ST": [
+        "401414"
+    ],
+    "AMSTERDAM AV/W 62 ST": [
+        "401416"
+    ],
+    "AMSTERDAM AV/W 65 ST": [
+        "401417"
+    ],
+    "AMSTERDAM AV/W 106 ST": [
+        "401435"
+    ],
+    "AMSTERDAM AV/W 109 ST": [
+        "401436"
+    ],
+    "AMSTERDAM AV/W 112 ST": [
+        "401467"
+    ],
+    "AMSTERDAM AV/W 116 ST": [
+        "401465"
+    ],
+    "AMSTERDAM AV/W 118 ST": [
+        "401464"
+    ],
+    "AMSTERDAM AV/W 120 ST": [
+        "803161"
+    ],
+    "AMSTERDAM AV/W 123 ST": [
+        "401462"
+    ],
+    "AMSTERDAM AV/W 125 ST": [
+        "405079"
+    ],
+    "AMSTERDAM AV/W 126 ST": [
+        "401445"
+    ],
+    "AMSTERDAM AV/W 129 ST": [
+        "903089"
+    ],
+    "AMSTERDAM AV/W 131 ST": [
+        "401458"
+    ],
+    "AMSTERDAM AV/W 133 ST": [
+        "401448"
+    ],
+    "HUDSON ST/CHRISTOPHER ST": [
+        "401453"
+    ],
+    "AMSTERDAM AV/W 114 ST": [
+        "403886"
+    ],
+    "COLUMBUS AV/CATHEDRAL PY": [
+        "401469"
+    ],
+    "COLUMBUS AV/W 108 ST": [
+        "401470"
+    ],
+    "9 AV/W 59 ST": [
+        "401489"
+    ],
+    "9 AV/W 57 ST": [
+        "401490"
+    ],
+    "9 AV/W 55 ST": [
+        "401491"
+    ],
+    "9 AV/W 52 ST": [
+        "401492"
+    ],
+    "9 AV/W 50 ST": [
+        "401493"
+    ],
+    "9 AV/W 46 ST": [
+        "401495"
+    ],
+    "9 AV/W 44 ST": [
+        "401496"
+    ],
+    "9 AV/W 42 ST": [
+        "401497"
+    ],
+    "9 AV/W 35 ST": [
+        "401500"
+    ],
+    "9 AV/W 34 ST": [
+        "401501"
+    ],
+    "9 AV/W 30 ST": [
+        "401502"
+    ],
+    "9 AV/W 28 ST": [
+        "401503"
+    ],
+    "9 AV/W 20 ST": [
+        "401506"
+    ],
+    "9 AV/W 18 ST": [
+        "401507"
+    ],
+    "WEST ST/CHRISTOPHER ST": [
+        "903030"
+    ],
+    "W 10 ST/WASHINGTON ST": [
+        "401529"
+    ],
+    "W 10 ST/BLEECKER ST": [
+        "401531"
+    ],
+    "W 10 ST/7 AV S": [
+        "401532"
+    ],
+    "W 10 ST/WAVERLY PL": [
+        "401533"
+    ],
+    "GREENWICH AV/CHRISTOPHER ST": [
+        "401535"
+    ],
+    "W 8 ST/AV OF THE AMERICAS": [
+        "401536"
+    ],
+    "W 8 ST/5 AV": [
+        "401538"
+    ],
+    "ST MARKS PL/3 AV": [
+        "401542"
+    ],
+    "ST MARKS PL/2 AV": [
+        "401543"
+    ],
+    "ST MARKS PL/1 AV": [
+        "401544"
+    ],
+    "ST MARKS PL/AV A": [
+        "401545"
+    ],
+    "E 10 ST/AV A": [
+        "401554"
+    ],
+    "E 10 ST/AV B": [
+        "401553"
+    ],
+    "E 10 ST/AV C": [
+        "401552"
+    ],
+    "E 9 ST/AV A": [
+        "401555"
+    ],
+    "E 9 ST/1 AV": [
+        "401556"
+    ],
+    "E 9 ST/2 AV": [
+        "401557"
+    ],
+    "E 9 ST/3 AV": [
+        "401558"
+    ],
+    "E 9 ST/4 AV": [
+        "401559"
+    ],
+    "E 9 ST/UNIVERSITY PL": [
+        "401561"
+    ],
+    "W 9 ST/5 AV": [
+        "401562"
+    ],
+    "W 9 ST/AV OF THE AMERICAS": [
+        "401563"
+    ],
+    "CHRISTOPHER ST/GREENWICH AV": [
+        "401564"
+    ],
+    "CHRISTOPHER ST/WAVERLY PL": [
+        "401565"
+    ],
+    "CHRISTOPHER ST/7 AV S": [
+        "401566"
+    ],
+    "CHRISTOPHER ST/BLEECKER ST": [
+        "401567"
+    ],
+    "CHRISTOPHER ST/HUDSON ST": [
+        "401568"
+    ],
+    "CHRISTOPHER ST/GREENWICH ST": [
+        "401569"
+    ],
+    "CHRISTOPHER ST/WASHINGTON ST": [
+        "401570"
+    ],
+    "W 14 ST/8 AV": [
+        "403897"
+    ],
+    "W 14 ST/6 AV": [
+        "403895"
+    ],
+    "E 14 ST/AV C": [
+        "401633"
+    ],
+    "AV C/E 12 ST": [
+        "401630"
+    ],
+    "E 10 ST/AV D": [
+        "403443"
+    ],
+    "AV D/E 6 ST": [
+        "401595"
+    ],
+    "AV D/E 4 ST": [
+        "401596"
+    ],
+    "E HOUSTON ST/BARUCH DR": [
+        "401598"
+    ],
+    "E HOUSTON ST/MANGIN ST": [
+        "401599"
+    ],
+    "F. D. R. DRIVE/555 FDR DR": [
+        "401600"
+    ],
+    "8 AV/BLEECKER ST": [
+        "401608"
+    ],
+    "8 AV/W 4 ST": [
+        "401609"
+    ],
+    "AV A/E 11 ST": [
+        "401659"
+    ],
+    "COLUMBIA ST/RIVINGTON ST": [
+        "401624"
+    ],
+    "AV D/E HOUSTON ST": [
+        "401625"
+    ],
+    "AV D/E 5 ST": [
+        "401626"
+    ],
+    "AV A/E 5 ST": [
+        "405576"
+    ],
+    "WATER ST/OLD SLIP": [
+        "401665"
+    ],
+    "WATER ST/WALL ST": [
+        "403754"
+    ],
+    "PEARL ST/PECK SLIP": [
+        "401669"
+    ],
+    "ST JAMES PL/R F WAGNER SR PL": [
+        "401670"
+    ],
+    "PIKE ST/DIVISION ST": [
+        "401675"
+    ],
+    "ALLEN ST/DELANCEY ST": [
+        "403647"
+    ],
+    "ALLEN ST/STANTON ST": [
+        "401681"
+    ],
+    "1 AV/E 2 ST": [
+        "401682"
+    ],
+    "1 AV/ST MARKS PL": [
+        "401685"
+    ],
+    "1 AV/E 11 ST": [
+        "401686"
+    ],
+    "1 AV/E 14 ST": [
+        "401687"
+    ],
+    "1 AV/E 17 ST": [
+        "401688"
+    ],
+    "1 AV/E 20 ST": [
+        "401689"
+    ],
+    "1 AV/E 23 ST": [
+        "405368"
+    ],
+    "1 AV/E 25 ST": [
+        "405323"
+    ],
+    "1 AV/E 31 ST": [
+        "401694"
+    ],
+    "1 AV/E 36 ST": [
+        "401696"
+    ],
+    "1 AV/E 39 ST": [
+        "401697"
+    ],
+    "1 AV/E 42 ST": [
+        "401698"
+    ],
+    "1 AV/E 45 ST": [
+        "401699"
+    ],
+    "1 AV/MITCHELL PL": [
+        "401701"
+    ],
+    "1 AV/E 52 ST": [
+        "401702"
+    ],
+    "1 AV/E 55 ST": [
+        "401703"
+    ],
+    "1 AV/E 57 ST": [
+        "401704"
+    ],
+    "1 AV/E 64 ST": [
+        "401706"
+    ],
+    "1 AV/E 67 ST": [
+        "401707"
+    ],
+    "1 AV/E 70 ST": [
+        "401708"
+    ],
+    "1 AV/E 72 ST": [
+        "401709"
+    ],
+    "1 AV/E 75 ST": [
+        "401710"
+    ],
+    "1 AV/E 77 ST": [
+        "401711"
+    ],
+    "1 AV/E 79 ST": [
+        "401712"
+    ],
+    "1 AV/E 86 ST": [
+        "401715"
+    ],
+    "1 AV/E 89 ST": [
+        "401716"
+    ],
+    "1 AV/E 93 ST": [
+        "401718"
+    ],
+    "1 AV/E 99 ST": [
+        "401721"
+    ],
+    "1 AV/E 102 ST": [
+        "401722"
+    ],
+    "1 AV/E 106 ST": [
+        "401723"
+    ],
+    "1 AV/E 108 ST": [
+        "401724"
+    ],
+    "1 AV/E 111 ST": [
+        "401725"
+    ],
+    "1 AV/E 113 ST": [
+        "401726"
+    ],
+    "1 AV/E 116 ST": [
+        "401727"
+    ],
+    "1 AV/E 120 ST": [
+        "401729"
+    ],
+    "1 AV/PALADINO AV": [
+        "401730"
+    ],
+    "1 AV/E 125 ST": [
+        "401731"
+    ],
+    "E 126 ST/2 AV": [
+        "803154"
+    ],
+    "2 AV/E 125 ST": [
+        "401738"
+    ],
+    "2 AV/E 122 ST": [
+        "401739"
+    ],
+    "2 AV/E 119 ST": [
+        "401740"
+    ],
+    "2 AV/E 116 ST": [
+        "401741"
+    ],
+    "2 AV/E 113 ST": [
+        "401742"
+    ],
+    "2 AV/E 108 ST": [
+        "401744"
+    ],
+    "2 AV/E 106 ST": [
+        "405347"
+    ],
+    "2 AV/103 ST": [
+        "401746"
+    ],
+    "2 AV/E 101 ST": [
+        "401747"
+    ],
+    "2 AV/E 97 ST": [
+        "401748"
+    ],
+    "2 AV/E 96 ST": [
+        "803182"
+    ],
+    "2 AV/E 87 ST": [
+        "401753"
+    ],
+    "2 AV/E 84 ST": [
+        "401754"
+    ],
+    "2 AV/E 82 ST": [
+        "401755"
+    ],
+    "2 AV/E 78 ST": [
+        "401756"
+    ],
+    "2 AV/E 75 ST": [
+        "401758"
+    ],
+    "2 AV/E 72 ST": [
+        "401759"
+    ],
+    "2 AV/E 70 ST": [
+        "401760"
+    ],
+    "2 AV/E 68 ST": [
+        "401761"
+    ],
+    "2 AV/E 66 ST": [
+        "401762"
+    ],
+    "2 AV/E 64 ST": [
+        "401763"
+    ],
+    "2 AV/E 61 ST": [
+        "401764"
+    ],
+    "2 AV/E 57 ST": [
+        "401765"
+    ],
+    "2 AV/E 50 ST": [
+        "401768"
+    ],
+    "2 AV/E 46 ST": [
+        "401769"
+    ],
+    "2 AV/E 42 ST": [
+        "401771"
+    ],
+    "2 AV/E 39 ST": [
+        "401772"
+    ],
+    "2 AV/E 31 ST": [
+        "401775"
+    ],
+    "2 AV/E 25 ST": [
+        "401778"
+    ],
+    "2 AV/E 23 ST": [
+        "401779"
+    ],
+    "2 AV/E 20 ST": [
+        "401780"
+    ],
+    "2 AV/E 17 ST": [
+        "401781"
+    ],
+    "2 AV/E 14 ST": [
+        "401782"
+    ],
+    "2 AV/E 9 ST": [
+        "401784"
+    ],
+    "2 AV/E 6 ST": [
+        "401785"
+    ],
+    "2 AV/E 3 ST": [
+        "401786"
+    ],
+    "E HOUSTON ST/FORSYTH ST": [
+        "803109"
+    ],
+    "ALLEN ST/CANAL ST": [
+        "401793"
+    ],
+    "PEARL ST/FRANKFORT ST": [
+        "401797"
+    ],
+    "WATER ST/HANOVER SQ": [
+        "401802"
+    ],
+    "WORTH ST/CENTRE ST": [
+        "401806"
+    ],
+    "CENTRE ST/CHAMBERS ST": [
+        "401808"
+    ],
+    "W 42 ST/12 AV": [
+        "405118"
+    ],
+    "W 42 ST/11 AV": [
+        "403486"
+    ],
+    "W 42 ST/10 AV": [
+        "401853"
+    ],
+    "W 34 ST/9 AV": [
+        "403528"
+    ],
+    "W 34 ST/8 AV": [
+        "401848"
+    ],
+    "E 34 ST/5 AV": [
+        "405375"
+    ],
+    "E 34 ST/PARK AV": [
+        "401842"
+    ],
+    "E 34 ST/3 AV": [
+        "401840"
+    ],
+    "E 34 ST/2 AV": [
+        "403216"
+    ],
+    "E 23 ST/2 AV": [
+        "402144"
+    ],
+    "E 23 ST/1 AV": [
+        "405390"
+    ],
+    "W 34 ST/7 AV": [
+        "404820"
+    ],
+    "8 AV/W 40 ST": [
+        "401850"
+    ],
+    "W 42 ST/8 AV": [
+        "403239"
+    ],
+    "W 42 ST/9 AV": [
+        "403238"
+    ],
+    "WATERSIDE/WATERSIDE 1": [
+        "401857"
+    ],
+    "WATERSIDE/WATERSIDE 2": [
+        "401858"
+    ],
+    "W 81 ST/COLUMBUS AV": [
+        "401867"
+    ],
+    "W 81 ST/CENTRAL PK W": [
+        "401890"
+    ],
+    "E 79 ST TRANSVERSE/E 79 ST TRANSVERSE": [
+        "401889"
+    ],
+    "E 79 ST/5 AV": [
+        "403989"
+    ],
+    "E 79 ST/2 AV": [
+        "401883"
+    ],
+    "E 79 ST/1 AV": [
+        "401882"
+    ],
+    "YORK AV/E 79 ST": [
+        "402348"
+    ],
+    "E 80 ST/EAST END AV": [
+        "401878"
+    ],
+    "E 79 ST/EAST END AV": [
+        "401880"
+    ],
+    "E 79 ST/YORK AV": [
+        "401881"
+    ],
+    "E 79 ST/3 AV": [
+        "405369"
+    ],
+    "E 79 ST/MADISON AV": [
+        "404858"
+    ],
+    "W 79 ST/BROADWAY": [
+        "403523"
+    ],
+    "W 86 ST/AMSTERDAM AV": [
+        "401929"
+    ],
+    "W 86 ST/COLUMBUS AV": [
+        "404308"
+    ],
+    "W 86 ST/CENTRAL PK W": [
+        "401927"
+    ],
+    "W 86 ST/TRANSVERSE": [
+        "401926"
+    ],
+    "E 84 ST/5 AV": [
+        "401901"
+    ],
+    "E 86 ST/MADISON AV": [
+        "401924"
+    ],
+    "E 86 ST/LEXINGTON  AV": [
+        "401905"
+    ],
+    "E 86 ST/3 AV": [
+        "401921"
+    ],
+    "E 86 ST/1 AV": [
+        "401919"
+    ],
+    "YORK AV/E 86 ST": [
+        "402345"
+    ],
+    "YORK AV/E 88 ST": [
+        "401917"
+    ],
+    "YORK AV/E 91 ST": [
+        "401916"
+    ],
+    "E 86 ST/2 AV": [
+        "404681"
+    ],
+    "E 86 ST/LEXINGTON AV": [
+        "401922"
+    ],
+    "E 86 ST/5 AV": [
+        "401925"
+    ],
+    "W 86 ST/BROADWAY": [
+        "803166"
+    ],
+    "W 96 ST/WEST END AV": [
+        "903004"
+    ],
+    "W 96 ST/BROADWAY": [
+        "401965"
+    ],
+    "W 96 ST/AMSTERDAM AV": [
+        "401964"
+    ],
+    "W 96 ST/COLUMBUS AV": [
+        "404075"
+    ],
+    "W 96 ST/CENTRAL PK W": [
+        "401937"
+    ],
+    "E 96 ST/MADISON AV": [
+        "401960"
+    ],
+    "E 96 ST/LEXINGTON AV": [
+        "401958"
+    ],
+    "E 96 ST/3 AV": [
+        "401957"
+    ],
+    "E 96 ST/2 AV": [
+        "403632"
+    ],
+    "3 AV/E 99 ST": [
+        "401946"
+    ],
+    "3 AV/E 102 ST": [
+        "401947"
+    ],
+    "3 AV/E 104 ST": [
+        "401948"
+    ],
+    "E 106 ST/2 AV": [
+        "401970"
+    ],
+    "E 106 ST/1 AV": [
+        "401969"
+    ],
+    "E 97 ST/1 AV": [
+        "903003"
+    ],
+    "E 97 ST/2 AV": [
+        "401955"
+    ],
+    "E 97 ST/5 AV": [
+        "401961"
+    ],
+    "W 97 ST/WEST END AV": [
+        "401966"
+    ],
+    "E 105 ST/1 AV": [
+        "401968"
+    ],
+    "E 106 ST/3 AV": [
+        "404077"
+    ],
+    "LEXINGTON AV/E 104 ST": [
+        "401973"
+    ],
+    "LEXINGTON AV/E 102 ST": [
+        "401974"
+    ],
+    "W 106 ST/BROADWAY": [
+        "404911"
+    ],
+    "W 116 ST/MALCOLM X BL": [
+        "404274"
+    ],
+    "W 116 ST/5 AV": [
+        "401989"
+    ],
+    "E 116 ST/MADISON AV": [
+        "402005"
+    ],
+    "E 116 ST/PARK AV": [
+        "402004"
+    ],
+    "E 116 ST/LEXINGTON AV": [
+        "402003"
+    ],
+    "E 116 ST/3 AV": [
+        "405135"
+    ],
+    "E 116 ST/2 AV": [
+        "402001"
+    ],
+    "PLEASANT AV/E 120 ST": [
+        "803059"
+    ],
+    "E 116 ST/PLEASANT AV": [
+        "401999"
+    ],
+    "E 116 ST/1 AV": [
+        "402000"
+    ],
+    "E 116 ST/5 AV": [
+        "402006"
+    ],
+    "W HOUSTON ST/AV OF THE AMERICAS": [
+        "402022"
+    ],
+    "W HOUSTON ST/W BROADWAY": [
+        "402024"
+    ],
+    "E HOUSTON ST/LAFAYETTE ST": [
+        "402027"
+    ],
+    "E HOUSTON ST/MOTT ST": [
+        "404155"
+    ],
+    "E HOUSTON ST/BOWERY": [
+        "402071"
+    ],
+    "E HOUSTON ST/ESSEX ST": [
+        "402032"
+    ],
+    "E HOUSTON ST/NORFOLK ST": [
+        "402033"
+    ],
+    "E HOUSTON ST/CLINTON ST": [
+        "402034"
+    ],
+    "AV C/E 3 ST": [
+        "403304"
+    ],
+    "AV C/E 5 ST": [
+        "402037"
+    ],
+    "AV C/E 7 ST": [
+        "402038"
+    ],
+    "AV C/E 11 ST": [
+        "402039"
+    ],
+    "AV C/E 14 ST": [
+        "402057"
+    ],
+    "AV C/E 16 ST": [
+        "402056"
+    ],
+    "AV C/FDR DRIVE": [
+        "402043"
+    ],
+    "E 29 ST/1 AV": [
+        "402048"
+    ],
+    "E 29 ST/2 AV": [
+        "402049"
+    ],
+    "E 23 ST/AV C": [
+        "402052"
+    ],
+    "AV C/E 20 ST": [
+        "903002"
+    ],
+    "AV C/E 18 ST": [
+        "402055"
+    ],
+    "E HOUSTON ST/AV B": [
+        "402067"
+    ],
+    "E HOUSTON ST/AV A": [
+        "402068"
+    ],
+    "CHAMBERS ST/WEST ST": [
+        "402080"
+    ],
+    "FRANKFORT ST/PEARL ST": [
+        "402085"
+    ],
+    "MADISON ST/OLIVER ST": [
+        "402088"
+    ],
+    "MADISON ST/MARKET ST": [
+        "402111"
+    ],
+    "MADISON ST/PIKE ST": [
+        "402110"
+    ],
+    "MADISON ST/RUTGERS ST": [
+        "402109"
+    ],
+    "MADISON ST/JEFFERSON ST": [
+        "402108"
+    ],
+    "MADISON ST/CLINTON ST": [
+        "402107"
+    ],
+    "MADISON ST/MONTGOMERY ST": [
+        "402106"
+    ],
+    "MADISON ST/GOUVERNEUR ST": [
+        "402105"
+    ],
+    "GRAND ST/FDR DR": [
+        "903025"
+    ],
+    "CHERRY ST/JACKSON ST": [
+        "402102"
+    ],
+    "JACKSON ST/MADISON ST": [
+        "402103"
+    ],
+    "MADISON ST/JACKSON ST": [
+        "402104"
+    ],
+    "MADISON ST/CATHERINE ST": [
+        "405319"
+    ],
+    "CHAMBERS ST/BROADWAY": [
+        "402118"
+    ],
+    "CHAMBERS ST/CHURCH ST": [
+        "404977"
+    ],
+    "CHAMBERS ST/HUDSON ST": [
+        "402120"
+    ],
+    "W 23 ST/10 AV": [
+        "403547"
+    ],
+    "W 23 ST/9 AV": [
+        "402155"
+    ],
+    "W 23 ST/8 AV": [
+        "402154"
+    ],
+    "W 23 ST/7 AV": [
+        "402153"
+    ],
+    "W 23 ST/6 AV": [
+        "402128"
+    ],
+    "E 23 ST/BROADWAY": [
+        "405231"
+    ],
+    "E 23 ST/PARK AV S": [
+        "404833"
+    ],
+    "E 23 ST/3 AV": [
+        "402145"
+    ],
+    "E 20 ST/1 AV": [
+        "402142"
+    ],
+    "W 23 ST/AV OF THE AMERICAS": [
+        "402152"
+    ],
+    "W 23 ST/11 AV": [
+        "404834"
+    ],
+    "12 AV/W 43 ST": [
+        "402160"
+    ],
+    "12 AV/W 46 ST": [
+        "403956"
+    ],
+    "12 AV/W 48 ST": [
+        "402162"
+    ],
+    "W 50 ST/12 AV": [
+        "402163"
+    ],
+    "W 50 ST/11 AV": [
+        "402164"
+    ],
+    "W 50 ST/10 AV": [
+        "402165"
+    ],
+    "W 50 ST/9 AV": [
+        "402166"
+    ],
+    "W 50 ST/8 AV": [
+        "402167"
+    ],
+    "W 50 ST/AV OF THE AMERICAS": [
+        "402169"
+    ],
+    "E 50 ST/5 AV": [
+        "402171"
+    ],
+    "E 50 ST/MADISON AV": [
+        "402172"
+    ],
+    "E 50 ST/LEXINGTON AV": [
+        "402173"
+    ],
+    "E 50 ST/3 AV": [
+        "402174"
+    ],
+    "E 50 ST/2 AV": [
+        "402175"
+    ],
+    "E 49 ST/1 AV": [
+        "402183"
+    ],
+    "E 49 ST/3 AV": [
+        "402185"
+    ],
+    "E 49 ST/LEXINGTON AV": [
+        "402186"
+    ],
+    "E 49 ST/MADISON AV": [
+        "402188"
+    ],
+    "W 49 ST/5 AV": [
+        "402189"
+    ],
+    "W 49 ST/AV OF THE AMERICAS": [
+        "402191"
+    ],
+    "W 49 ST/9 AV": [
+        "402194"
+    ],
+    "W 49 ST/10 AV": [
+        "402195"
+    ],
+    "W 57 ST/11 AV": [
+        "402205"
+    ],
+    "E 57 ST/LEXINGTON AV": [
+        "403617"
+    ],
+    "E 57 ST/3 AV": [
+        "402224"
+    ],
+    "E 57 ST/2 AV": [
+        "402223"
+    ],
+    "E 57 ST/1 AV": [
+        "402222"
+    ],
+    "E 57 ST/SUTTON PL": [
+        "402218"
+    ],
+    "E 55 ST/1 AV": [
+        "402221"
+    ],
+    "W 57 ST/5 AV": [
+        "405529"
+    ],
+    "W 57 ST/AV OF THE AMERICAS": [
+        "403621"
+    ],
+    "W 57 ST/9 AV": [
+        "403984"
+    ],
+    "W 72 ST/CENTRAL PK W": [
+        "403610"
+    ],
+    "E 72 ST/MADISON AV": [
+        "402303"
+    ],
+    "E 72 ST/LEXINGTON AV": [
+        "402301"
+    ],
+    "E 72 ST/3 AV": [
+        "402300"
+    ],
+    "E 72 ST/1 AV": [
+        "402298"
+    ],
+    "E 72 ST/YORK AV": [
+        "803058"
+    ],
+    "E 72 ST/2 AV": [
+        "405365"
+    ],
+    "SUTTON PL/SUTTON SQ": [
+        "402328"
+    ],
+    "YORK AV/E 63 ST": [
+        "402330"
+    ],
+    "YORK AV/E 66 ST": [
+        "402331"
+    ],
+    "YORK AV/E 72 ST": [
+        "402351"
+    ],
+    "YORK AV/E 76 ST": [
+        "402336"
+    ],
+    "YORK AV/E 82 ST": [
+        "402347"
+    ],
+    "YORK AV/E 84 ST": [
+        "402346"
+    ],
+    "YORK AV/E 77 ST": [
+        "402349"
+    ],
+    "YORK AV/E 64 ST": [
+        "402355"
+    ],
+    "5 AV/W 58 ST": [
+        "402446"
+    ],
+    "LEXINGTON AV/E 125 ST": [
+        "903075"
+    ],
+    "E 124 ST/3 AV": [
+        "402460"
+    ],
+    "E 124 ST/2 AV": [
+        "402461"
+    ],
+    "E 125 ST/3 AV": [
+        "403672"
+    ],
+    "E 125 ST/LEXINGTON AV": [
+        "403671"
+    ],
+    "E 125 ST/PARK AV": [
+        "402662"
+    ],
+    "E 125 ST/MADISON AV": [
+        "402661"
+    ],
+    "W 125 ST/5 AV": [
+        "402506"
+    ],
+    "W 125 ST/MALCOLM X BL": [
+        "402507"
+    ],
+    "W 125 ST/ADAM C POWELL BL": [
+        "402658"
+    ],
+    "W 125 ST/FRED DOUGLASS BL": [
+        "402657"
+    ],
+    "W 125 ST/ST NICHOLAS AV": [
+        "405416"
+    ],
+    "W 125 ST/AMSTERDAM AV": [
+        "403604"
+    ],
+    "AMSTERDAM AV/W 135 ST": [
+        "405078"
+    ],
+    "AMSTERDAM AV/W 138 ST": [
+        "402647"
+    ],
+    "AMSTERDAM AV/W 140 ST": [
+        "402646"
+    ],
+    "AMSTERDAM AV/W 143 ST": [
+        "402645"
+    ],
+    "AMSTERDAM AV/W 145 ST": [
+        "402644"
+    ],
+    "AMSTERDAM AV/W 155 ST": [
+        "402526"
+    ],
+    "BROADWAY/W 173 ST": [
+        "402535"
+    ],
+    "3 AV/E 31 ST": [
+        "402634"
+    ],
+    "AMSTERDAM AV/W 158 ST": [
+        "405073"
+    ],
+    "AMSTERDAM AV/W 156 ST": [
+        "402639"
+    ],
+    "AMSTERDAM AV/W 152 ST": [
+        "405074"
+    ],
+    "AMSTERDAM AV/W 150 ST": [
+        "402642"
+    ],
+    "AMSTERDAM AV/W 148 ST": [
+        "402643"
+    ],
+    "W 125 ST/MALCOLM X  BL": [
+        "402659"
+    ],
+    "E 125 ST/5 AV": [
+        "402660"
+    ],
+    "COOPER SQ/E 6 ST": [
+        "402666"
+    ],
+    "3 AV/E 17 ST": [
+        "402856"
+    ],
+    "3 AV/E 26 ST": [
+        "402673"
+    ],
+    "3 AV/E 29 ST": [
+        "402674"
+    ],
+    "3 AV/E 37 ST": [
+        "402677"
+    ],
+    "3 AV/E 39 ST": [
+        "402678"
+    ],
+    "3 AV/E 42 ST": [
+        "402679"
+    ],
+    "3 AV/E 45 ST": [
+        "402680"
+    ],
+    "3 AV/E 47 ST": [
+        "402681"
+    ],
+    "3 AV/E 50 ST": [
+        "402682"
+    ],
+    "3 AV/E 65 ST": [
+        "402687"
+    ],
+    "3 AV/E 67 ST": [
+        "402688"
+    ],
+    "3 AV/E 69 ST": [
+        "402689"
+    ],
+    "3 AV/E 75 ST": [
+        "402691"
+    ],
+    "3 AV/E 77 ST": [
+        "402692"
+    ],
+    "3 AV/E 82 ST": [
+        "402694"
+    ],
+    "3 AV/E 88 ST": [
+        "402696"
+    ],
+    "3 AV/E 91 ST": [
+        "402697"
+    ],
+    "3 AV/E 109 ST": [
+        "402704"
+    ],
+    "3 AV/E 112 ST": [
+        "402705"
+    ],
+    "3 AV/E 118 ST": [
+        "402707"
+    ],
+    "W 125 ST/MORNINGSIDE AV": [
+        "402723"
+    ],
+    "AMSTERDAM AV/W 171 ST": [
+        "402740"
+    ],
+    "AMSTERDAM AV/W 173 ST": [
+        "402741"
+    ],
+    "AMSTERDAM AV/W 179 ST": [
+        "402744"
+    ],
+    "AMSTERDAM AV/W 181 ST": [
+        "402767"
+    ],
+    "AMSTERDAM AV/W 187 ST": [
+        "402748"
+    ],
+    "AMSTERDAM AV/W 190 ST": [
+        "404008"
+    ],
+    "BOWERY/BAYARD ST": [
+        "402869"
+    ],
+    "BOWERY/GRAND ST": [
+        "402867"
+    ],
+    "BOWERY/DELANCEY ST": [
+        "402757"
+    ],
+    "BOWERY/E HOUSTON ST": [
+        "402863"
+    ],
+    "BOWERY/E 3 ST": [
+        "402762"
+    ],
+    "AMSTERDAM AV/W 188 ST": [
+        "402764"
+    ],
+    "AMSTERDAM AV/W 184 ST": [
+        "402766"
+    ],
+    "AMSTERDAM AV/W 178 ST": [
+        "402769"
+    ],
+    "AMSTERDAM AV/W 172 ST": [
+        "402772"
+    ],
+    "AMSTERDAM AV/W 170 ST": [
+        "402773"
+    ],
+    "AMSTERDAM AV/W 168 ST": [
+        "402774"
+    ],
+    "LEXINGTON AV/E 122 ST": [
+        "402805"
+    ],
+    "LEXINGTON AV/E 114 ST": [
+        "402809"
+    ],
+    "LEXINGTON AV/E 110 ST": [
+        "402811"
+    ],
+    "LEXINGTON AV/E 100 ST": [
+        "402816"
+    ],
+    "LEXINGTON AV/E 94 ST": [
+        "402819"
+    ],
+    "LEXINGTON AV/E 79 ST": [
+        "402826"
+    ],
+    "LEXINGTON AV/E 74 ST": [
+        "402829"
+    ],
+    "LEXINGTON AV/E 70 ST": [
+        "402831"
+    ],
+    "LEXINGTON AV/E 62 ST": [
+        "402835"
+    ],
+    "LEXINGTON AV/E 56 ST": [
+        "402838"
+    ],
+    "LEXINGTON AV/E 46 ST": [
+        "402842"
+    ],
+    "LEXINGTON AV/E 40 ST": [
+        "402845"
+    ],
+    "LEXINGTON AV/E 37 ST": [
+        "402846"
+    ],
+    "LEXINGTON AV/E 28 ST": [
+        "402851"
+    ],
+    "LEXINGTON AV/E 26 ST": [
+        "402852"
+    ],
+    "3 AV/E 23 ST": [
+        "403855"
+    ],
+    "5 AV/W 13 ST": [
+        "402857"
+    ],
+    "3 AV/E 11 ST": [
+        "403526"
+    ],
+    "BOWERY/BLEECKER ST": [
+        "402862"
+    ],
+    "BOWERY/PRINCE ST": [
+        "402864"
+    ],
+    "BOWERY/KENMARE ST": [
+        "402865"
+    ],
+    "BOWERY/CANAL ST": [
+        "402868"
+    ],
+    "PARK ROW/WORTH ST": [
+        "803077"
+    ],
+    "WEST END AV/W 72 ST": [
+        "403036"
+    ],
+    "WEST END AV/W 69 ST": [
+        "403608"
+    ],
+    "WEST END AV/W 66 ST": [
+        "403076"
+    ],
+    "CENTRAL PK S/AVE OF THE AMERICAS": [
+        "403047"
+    ],
+    "BROADWAY/W 73 ST": [
+        "403103"
+    ],
+    "BROADWAY/W 75 ST": [
+        "403104"
+    ],
+    "BROADWAY/W 77 ST": [
+        "403105"
+    ],
+    "BROADWAY/W 79 ST": [
+        "403165"
+    ],
+    "BROADWAY/W 82 ST": [
+        "403164"
+    ],
+    "BROADWAY/W 86 ST": [
+        "403162"
+    ],
+    "BROADWAY/W 88 ST": [
+        "403110"
+    ],
+    "BROADWAY/W 91 ST": [
+        "403111"
+    ],
+    "BROADWAY/W 93 ST": [
+        "403112"
+    ],
+    "BROADWAY/W 99 ST": [
+        "403114"
+    ],
+    "BROADWAY/W 101 ST": [
+        "403115"
+    ],
+    "BROADWAY/W 103 ST": [
+        "403116"
+    ],
+    "BROADWAY/W 106 ST": [
+        "403152"
+    ],
+    "BROADWAY/W 108 ST": [
+        "403151"
+    ],
+    "BROADWAY/CATHEDRAL PKY": [
+        "403119"
+    ],
+    "BROADWAY/W 116 ST": [
+        "403147"
+    ],
+    "BROADWAY/W 122 ST": [
+        "403145"
+    ],
+    "BROADWAY/LA SALLE ST": [
+        "403144"
+    ],
+    "BROADWAY/TIEMANN PL": [
+        "403142"
+    ],
+    "AV OF THE AMERICAS/W 50 ST": [
+        "403132"
+    ],
+    "MORNINGSIDE AV/W 125 ST": [
+        "403139"
+    ],
+    "BROADWAY/W 114 ST": [
+        "403148"
+    ],
+    "BROADWAY/W 112 ST": [
+        "403149"
+    ],
+    "BROADWAY/CATHEDRAL PY": [
+        "403150"
+    ],
+    "BROADWAY/W 104 ST": [
+        "403153"
+    ],
+    "BROADWAY/W 102 ST": [
+        "403154"
+    ],
+    "BROADWAY/W 100 ST": [
+        "403155"
+    ],
+    "BROADWAY/W 94 ST": [
+        "403158"
+    ],
+    "BROADWAY/W 92 ST": [
+        "403159"
+    ],
+    "BROADWAY/W 84 ST": [
+        "403163"
+    ],
+    "BROADWAY/W 76 ST": [
+        "403166"
+    ],
+    "BROADWAY/W 74 ST": [
+        "403167"
+    ],
+    "BROADWAY/W 72 ST": [
+        "403168"
+    ],
+    "BROADWAY/W 70 ST": [
+        "403169"
+    ],
+    "BROADWAY/W 65 ST": [
+        "403171"
+    ],
+    "W 34 ST/11 AV": [
+        "403191"
+    ],
+    "W 34 ST/10 AV": [
+        "403192"
+    ],
+    "W 42 ST/7 AV": [
+        "403259"
+    ],
+    "W 42 ST/BROADWAY": [
+        "403354"
+    ],
+    "W 42 ST/6 AV": [
+        "403242"
+    ],
+    "E 42 ST/LEXINGTON AV": [
+        "403254"
+    ],
+    "E 42 ST/3 AV": [
+        "403253"
+    ],
+    "E 42 ST/2 AV": [
+        "403252"
+    ],
+    "E 42 ST/1 AV": [
+        "403251"
+    ],
+    "E 41 ST/1 AV": [
+        "903046"
+    ],
+    "W 42 ST/5 AV": [
+        "403465"
+    ],
+    "11 AV/W 42 ST": [
+        "403264"
+    ],
+    "5 AV/W 55 ST": [
+        "403266"
+    ],
+    "BROADWAY/W 66 ST": [
+        "403271"
+    ],
+    "FRED DOUGLASS BL/W 128 ST": [
+        "403276"
+    ],
+    "AMSTERDAM AV/LA SALLE ST": [
+        "403292"
+    ],
+    "YORK AV/E 69 ST": [
+        "403563"
+    ],
+    "E HOUSTON ST/AV C": [
+        "403303"
+    ],
+    "AV C/E 6 ST": [
+        "403305"
+    ],
+    "AV C/E 8 ST": [
+        "403306"
+    ],
+    "AV C/E 10 ST": [
+        "403307"
+    ],
+    "BROADWAY/W HOUSTON ST": [
+        "403311"
+    ],
+    "W 10 ST/HUDSON ST": [
+        "403312"
+    ],
+    "W 10 ST/GREENWICH ST": [
+        "403313"
+    ],
+    "E 25 ST/PARK AV S": [
+        "403316"
+    ],
+    "ESSEX ST/DELANCEY ST": [
+        "403732"
+    ],
+    "ESSEX ST/RIVINGTON ST": [
+        "403319"
+    ],
+    "AV A/E HOUSTON ST": [
+        "405577"
+    ],
+    "W HOUSTON ST/LA GUARDIA PL": [
+        "403323"
+    ],
+    "E 105 ST/FDR  DR": [
+        "403326"
+    ],
+    "2 AV/E 94 ST": [
+        "403342"
+    ],
+    "WORTH ST/MOTT ST": [
+        "403350"
+    ],
+    "E 34 ST/1 AV": [
+        "403359"
+    ],
+    "COLUMBUS AV/W 97 ST": [
+        "403362"
+    ],
+    "E 91 ST/YORK AV": [
+        "403367"
+    ],
+    "COLUMBUS AV/W 75 ST": [
+        "403372"
+    ],
+    "FT WASHINGTON AV/W 168 ST": [
+        "404921"
+    ],
+    "FT WASHINGTON AV/W 165 ST": [
+        "404920"
+    ],
+    "FT WASHINGTON AV/W 164 ST": [
+        "403375"
+    ],
+    "FT WASHINGTON AV/W 162 ST": [
+        "403376"
+    ],
+    "FT WASHINGTON AV/W 160 ST": [
+        "403377"
+    ],
+    "DELANCEY ST/COLUMBIA ST": [
+        "403380"
+    ],
+    "1 AV/E 91 ST": [
+        "403383"
+    ],
+    "MANHATTAN AV/CATHEDRAL PY": [
+        "403392"
+    ],
+    "WEST THAMES ST/SOUTH END AV": [
+        "405125"
+    ],
+    "SOUTH END AV/ALBANY ST": [
+        "803108"
+    ],
+    "PARK AV/E 125 ST": [
+        "403415"
+    ],
+    "LEXINGTON AV/E 116 ST": [
+        "403416"
+    ],
+    "LEXINGTON AV/E 106 ST": [
+        "403417"
+    ],
+    "LEXINGTON AV/E 96 ST": [
+        "403418"
+    ],
+    "LEXINGTON AV/E 86 ST": [
+        "403419"
+    ],
+    "LEXINGTON AV/E 72 ST": [
+        "403421"
+    ],
+    "LEXINGTON AV/E 68 ST": [
+        "903105"
+    ],
+    "LEXINGTON AV/E 50 ST": [
+        "403424"
+    ],
+    "LEXINGTON AV/E 42 ST": [
+        "403425"
+    ],
+    "3 AV/E 33 ST": [
+        "403427"
+    ],
+    "3 AV/E 72 ST": [
+        "403432"
+    ],
+    "3 AV/E 79 ST": [
+        "403433"
+    ],
+    "3 AV/E 86 ST": [
+        "403434"
+    ],
+    "3 AV/E 106 ST": [
+        "403436"
+    ],
+    "W 179 ST/AMSTERDAM AV": [
+        "403439"
+    ],
+    "W 179 ST/ST NICHOLAS AV": [
+        "403440"
+    ],
+    "HUDSON ST/NORTH MOORE ST": [
+        "403444"
+    ],
+    "W 135 ST/BROADWAY": [
+        "404011"
+    ],
+    "BROADWAY/W 119 ST": [
+        "403454"
+    ],
+    "MADISON AV/E 37 ST": [
+        "403456"
+    ],
+    "MADISON AV/E 40  ST": [
+        "403457"
+    ],
+    "E 42 ST/PARK AV": [
+        "403459"
+    ],
+    "BROADWAY/W 133 ST": [
+        "903230"
+    ],
+    "ST NICHOLAS AV/FORT GEORGE HILL": [
+        "403466"
+    ],
+    "AMSTERDAM AV/W 67 ST": [
+        "403472"
+    ],
+    "GRAND ST/ESSEX ST": [
+        "403475"
+    ],
+    "1 AV/E 34 ST": [
+        "403480"
+    ],
+    "W 66 ST/WEST END AV": [
+        "803057"
+    ],
+    "W 65 ST/WEST END AV": [
+        "403488"
+    ],
+    "W 65 ST/AMSTERDAM AV": [
+        "403489"
+    ],
+    "W 65 ST/BROADWAY": [
+        "403491"
+    ],
+    "W 65 ST/CENTRAL PK W": [
+        "403492"
+    ],
+    "E 65 ST/5 AV": [
+        "403494"
+    ],
+    "E 68 ST/MADISON AV": [
+        "403495"
+    ],
+    "E 68 ST/LEXINGTON AV": [
+        "403497"
+    ],
+    "E 67 ST/1 AV": [
+        "403503"
+    ],
+    "E 67 ST/2 AV": [
+        "403504"
+    ],
+    "E 67 ST/3 AV": [
+        "403505"
+    ],
+    "E 67 ST/LEXINGTON AV": [
+        "403506"
+    ],
+    "E 67 ST/MADISON AV": [
+        "403508"
+    ],
+    "W 66 ST/CENTRAL PK W": [
+        "403510"
+    ],
+    "W 66 ST/BROADWAY": [
+        "403512"
+    ],
+    "W 66 ST/AMSTERDAM AV": [
+        "403513"
+    ],
+    "W 87 ST/WEST END AV": [
+        "403518"
+    ],
+    "W 34 ST/DYER AV": [
+        "403519"
+    ],
+    "W 79 ST/RIVERSIDE DR": [
+        "903286"
+    ],
+    "2 AV/E 28 ST": [
+        "405336"
+    ],
+    "3 AV/E 125 ST": [
+        "403537"
+    ],
+    "3 AV/E 60 ST": [
+        "403545"
+    ],
+    "AMSTERDAM AV/W 69 ST": [
+        "403555"
+    ],
+    "E 14 ST/IRVING PL": [
+        "403556"
+    ],
+    "DELANCEY ST/FDR DR": [
+        "403557"
+    ],
+    "W 86 ST/WEST END AV": [
+        "403560"
+    ],
+    "W 57 ST/8 AV": [
+        "803001"
+    ],
+    "W 65 ST/COLUMBUS AV": [
+        "403573"
+    ],
+    "PEARL ST/FULTON ST": [
+        "404850"
+    ],
+    "W 72 ST/COLUMBUS AV": [
+        "403611"
+    ],
+    "W 72 ST/AMSTERDAM AV": [
+        "403612"
+    ],
+    "E 57 ST/MADISON AV": [
+        "803117"
+    ],
+    "WEST END AV/W 59 ST": [
+        "403626"
+    ],
+    "W 179 ST/BROADWAY": [
+        "403670"
+    ],
+    "E 125 ST/2 AV": [
+        "403676"
+    ],
+    "E 125 ST/1 AV": [
+        "403674"
+    ],
+    "W 125 ST/BROADWAY": [
+        "403677"
+    ],
+    "W 155 ST/AMSTERDAM AV": [
+        "403698"
+    ],
+    "E 135 ST/MADISON AV": [
+        "403711"
+    ],
+    "YORK AV/E 74 ST": [
+        "803159"
+    ],
+    "E HOUSTON ST/2 AV": [
+        "403731"
+    ],
+    "W 79 ST/AMSTERDAM AV": [
+        "403733"
+    ],
+    "YORK AV/E 67 ST": [
+        "403735"
+    ],
+    "LEXINGTON AV/E 98 ST": [
+        "403749"
+    ],
+    "W 135 ST/AMSTERDAM AV": [
+        "403786"
+    ],
+    "W 50 ST/7 AV": [
+        "403760"
+    ],
+    "W 125 ST/OLD BROADWAY": [
+        "403791"
+    ],
+    "3 AV/E 93 ST": [
+        "403765"
+    ],
+    "E 128 ST/3 AV": [
+        "403766"
+    ],
+    "AV OF THE AMERICAS/W 31 ST": [
+        "403769"
+    ],
+    "3 AV/E 20 ST": [
+        "403772"
+    ],
+    "ST NICHOLAS AV/W 137 ST": [
+        "403776"
+    ],
+    "3 AV/E 97 ST": [
+        "403777"
+    ],
+    "W 66 ST/COLUMBUS AV": [
+        "403779"
+    ],
+    "PARK AV S/E 23 ST": [
+        "403782"
+    ],
+    "E 126 ST/3 AV": [
+        "403787"
+    ],
+    "4 AV/E 9 ST": [
+        "403793"
+    ],
+    "7 AV/W 50 ST": [
+        "403797"
+    ],
+    "10 AV/W 23 ST": [
+        "403802"
+    ],
+    "E 42 ST/MADISON AV": [
+        "404160"
+    ],
+    "E HOUSTON ST/COLUMBIA ST": [
+        "403808"
+    ],
+    "11 AV/W 34 ST": [
+        "405285"
+    ],
+    "LEXINGTON AV/E 34 ST": [
+        "403821"
+    ],
+    "LEXINGTON AV/E 31 ST": [
+        "403822"
+    ],
+    "W 125 ST/ST CLAIRE PL": [
+        "403829"
+    ],
+    "W 42 ST/AV OF THE AMERICAS": [
+        "403830"
+    ],
+    "WATER ST/JOHN ST": [
+        "403831"
+    ],
+    "MARGARET CORBIN DR/CLOISTERS": [
+        "803067"
+    ],
+    "8 AV/W  57 ST": [
+        "403846"
+    ],
+    "AV OF THE AMERICAS/WEST BROADWAY": [
+        "403847"
+    ],
+    "ALLEN ST/E HOUSTON ST": [
+        "403849"
+    ],
+    "SPRING ST/HUDSON ST": [
+        "403851"
+    ],
+    "W HOUSTON ST/HUDSON ST": [
+        "403853"
+    ],
+    "WASHINGTON ST/W HOUSTON ST": [
+        "403854"
+    ],
+    "HUDSON ST/BETHUNE ST": [
+        "403876"
+    ],
+    "VESEY ST/NORTH END AV": [
+        "803094"
+    ],
+    "2 AV/E 54 ST": [
+        "403887"
+    ],
+    "E 14 ST/UNION SQ W": [
+        "403893"
+    ],
+    "W 14 ST/5 AV": [
+        "403894"
+    ],
+    "BROADWAY/W 129 ST": [
+        "403903"
+    ],
+    "E 14 ST/4 AV": [
+        "403906"
+    ],
+    "W 165 ST/AMSTERDAM AV": [
+        "403910"
+    ],
+    "AUDUBON AV/W 165 ST": [
+        "403908"
+    ],
+    "3 AV/E 14 ST": [
+        "404106"
+    ],
+    "AV OF THE AMERICAS/W 20 ST": [
+        "403914"
+    ],
+    "CONVENT AV/W 129 ST": [
+        "403942"
+    ],
+    "W 49 ST/11 AV": [
+        "403954"
+    ],
+    "W 49 ST/12 AV": [
+        "403955"
+    ],
+    "ST NICHOLAS AV/W 176 ST": [
+        "403975"
+    ],
+    "ST NICHOLAS AV/W 174 ST": [
+        "403979"
+    ],
+    "MADISON AV/E 121 ST": [
+        "403980"
+    ],
+    "CENTRAL PK W/W 69 ST": [
+        "403981"
+    ],
+    "W 57 ST/10 AV": [
+        "403992"
+    ],
+    "11 AV/W 57 ST": [
+        "403987"
+    ],
+    "E 68 ST/3 AV": [
+        "403993"
+    ],
+    "E 68 ST/2 AV": [
+        "403994"
+    ],
+    "E 68 ST/1 AV": [
+        "403995"
+    ],
+    "EAST 68 ST/YORK AV": [
+        "403996"
+    ],
+    "E 67 ST/YORK AV": [
+        "403997"
+    ],
+    "E 8 ST/LAFAYETTE ST": [
+        "903048"
+    ],
+    "W 135 ST/RIVERSIDE DR": [
+        "404019"
+    ],
+    "RIVERSIDE DR/W 137 ST": [
+        "404013"
+    ],
+    "RIVERSIDE DR/W 142 ST": [
+        "404017"
+    ],
+    "RIVERSIDE DR/W 144 ST": [
+        "404015"
+    ],
+    "RIVERSIDE DR/W 139 ST": [
+        "404056"
+    ],
+    "CENTRAL PK W/W 75 ST": [
+        "404024"
+    ],
+    "COLUMBUS AV/W 61 ST": [
+        "404030"
+    ],
+    "RIVERSIDE DR/W 145 ST": [
+        "404031"
+    ],
+    "W 49 ST/7 AV": [
+        "404035"
+    ],
+    "WEST END AV/W 61 ST": [
+        "405353"
+    ],
+    "SUTTON PL/E 55 ST": [
+        "404037"
+    ],
+    "AV OF THE AMERICAS/W 38 ST": [
+        "404039"
+    ],
+    "AV OF THE AMERICAS/W 40 ST": [
+        "404040"
+    ],
+    "AV OF THE AMERICAS/W 45 ST": [
+        "404043"
+    ],
+    "CENTRAL PK W/W 63 ST": [
+        "404049"
+    ],
+    "7 AV/W 56 ST": [
+        "404050"
+    ],
+    "RIVERSIDE DR/W 94 ST": [
+        "404131"
+    ],
+    "W 54 ST/11 AV": [
+        "903074"
+    ],
+    "ST NICHOLAS AV/W 167 ST": [
+        "404066"
+    ],
+    "E 106 ST/LEXINGTON AV": [
+        "404079"
+    ],
+    "E 106 ST/MADISON AV": [
+        "404080"
+    ],
+    "5 AV/E 98 ST": [
+        "404081"
+    ],
+    "12 AV/W 23 ST": [
+        "404137"
+    ],
+    "E 96 ST/5 AV": [
+        "803180"
+    ],
+    "3 AV/ASTOR PL": [
+        "903148"
+    ],
+    "E 20 ST/E 20 ST Loop": [
+        "404099"
+    ],
+    "E HOUSTON ST/RIDGE ST": [
+        "404100"
+    ],
+    "FRANKFORT ST/WILLIAM ST": [
+        "404101"
+    ],
+    "MADISON AV/E 114 ST": [
+        "404103"
+    ],
+    "RIVERSIDE DR/W 103 ST": [
+        "404104"
+    ],
+    "2 AV/E 12 ST": [
+        "404105"
+    ],
+    "CHURCH ST/VESEY ST": [
+        "404108"
+    ],
+    "W 43 ST/8 AV": [
+        "404116"
+    ],
+    "FT TRYON PARK/OPP CAFE LOT": [
+        "404117"
+    ],
+    "FT TRYON PARK/CAFE LOT": [
+        "404118"
+    ],
+    "UNION SQ E/E 15 ST": [
+        "404120"
+    ],
+    "5 AV/E  67 ST": [
+        "404122"
+    ],
+    "W 178 ST/ST NICHOLAS AV": [
+        "404124"
+    ],
+    "W 178 ST/AUDUBON AV": [
+        "404125"
+    ],
+    "RIVERSIDE DR/W 104 ST": [
+        "404130"
+    ],
+    "6 AV/PRINCE ST": [
+        "404132"
+    ],
+    "HUDSON ST/BARROW ST": [
+        "404133"
+    ],
+    "CENTRAL PK W/W 79 ST": [
+        "404136"
+    ],
+    "W 133 ST/AMSTERDAM AV": [
+        "404147"
+    ],
+    "7 AV/W 41 ST": [
+        "404153"
+    ],
+    "YORK AV/E 60 ST": [
+        "404154"
+    ],
+    "10 AV/W 19 ST": [
+        "404161"
+    ],
+    "5 AV/E 96 ST": [
+        "404168"
+    ],
+    "LEXINGTON AV/E 59 ST": [
+        "404171"
+    ],
+    "BROADWAY/MORRIS ST": [
+        "404190"
+    ],
+    "MADISON AV/E 95 ST": [
+        "404191"
+    ],
+    "W 179 ST/WADSWORTH AV": [
+        "404194"
+    ],
+    "BROADWAY/WARREN ST": [
+        "404219"
+    ],
+    "BROADWAY/CHAMBERS ST": [
+        "404224"
+    ],
+    "BROADWAY/BARCLAY ST": [
+        "404225"
+    ],
+    "BROADWAY/W 131 ST": [
+        "903229"
+    ],
+    "7 AV/W 23 ST": [
+        "404244"
+    ],
+    "1 AV/E 62 ST": [
+        "404253"
+    ],
+    "LEXINGTON AV/E 124 ST": [
+        "404255"
+    ],
+    "RIVERSIDE DR/W 122 ST": [
+        "404259"
+    ],
+    "BROADWAY/W 113 ST": [
+        "404260"
+    ],
+    "BROADWAY/W 120 ST": [
+        "404262"
+    ],
+    "AV C/E 23 ST": [
+        "404264"
+    ],
+    "SUTTON PL/E 58 ST": [
+        "404266"
+    ],
+    "E 14 ST/UNIVERSITY PL": [
+        "404271"
+    ],
+    "10 AV/W 37 ST": [
+        "404279"
+    ],
+    "W 14 ST/HUDSON ST": [
+        "404286"
+    ],
+    "ESSEX ST/ E BROADWAY": [
+        "404287"
+    ],
+    "RIVERSIDE DR/W 74 ST": [
+        "404289"
+    ],
+    "AMSTERDAM AV/W 89 ST": [
+        "404320"
+    ],
+    "LEXINGTON AV/E 83 ST": [
+        "404321"
+    ],
+    "FRED DOUGLASS BL/MACOMBS PL": [
+        "404325"
+    ],
+    "PEARL ST / PEARL ST": [
+        "404327"
+    ],
+    "MALCOLM X BL/W 125 ST": [
+        "404334"
+    ],
+    "MALCOLM X BL / W 116 ST": [
+        "404341"
+    ],
+    "MAIN RWDY/OPP ICAHN STADIUM": [
+        "404350"
+    ],
+    "MAIN RDY/AFTER EXIT RAMP": [
+        "404352"
+    ],
+    "MAIN RDY/ICAHN STADIUM": [
+        "404353"
+    ],
+    "MAIN RDY/OPP CLARKE THOMAS BLDG": [
+        "404355"
+    ],
+    "SUNKEN GARDEN LOOP/EMPLOYMENT CTR": [
+        "404356"
+    ],
+    "ST CLAIRE PL/W 125 ST": [
+        "404362"
+    ],
+    "RIVERSIDE DR/TIEMANN PL": [
+        "404822"
+    ],
+    "FRED DOUGLASS BL/W 147 ST": [
+        "404824"
+    ],
+    "FRED DOUGLASS BL/W 148 ST": [
+        "404825"
+    ],
+    "WEST END AV/W 64 ST": [
+        "405468"
+    ],
+    "HUDSON ST/SPRING ST": [
+        "404832"
+    ],
+    "ADAM C POWELL BL/W 153 ST": [
+        "404837"
+    ],
+    "COLUMBUS AV/W 80 ST": [
+        "404838"
+    ],
+    "PIKE ST/MADISON ST": [
+        "404844"
+    ],
+    "8 AV/W 49 ST": [
+        "404846"
+    ],
+    "8 AV/W 31 ST": [
+        "404847"
+    ],
+    "PARK ROW/ST JAMES PL": [
+        "404857"
+    ],
+    "AMSTERDAM AV/W 161 ST": [
+        "404949"
+    ],
+    "LEXINGTON AV/E 77 ST": [
+        "404854"
+    ],
+    "E 110 ST/MADISON AV": [
+        "404856"
+    ],
+    "YORK AV/E 87 ST": [
+        "404859"
+    ],
+    "E 79 ST/LEXINGTON AV": [
+        "405169"
+    ],
+    "HARRISON ST/HUDSON ST": [
+        "404863"
+    ],
+    "HARRISON ST/WEST ST": [
+        "404864"
+    ],
+    "W 70 ST/FREEDOM PL": [
+        "404865"
+    ],
+    "CENTRAL PK W/COLUMBUS CIR": [
+        "404871"
+    ],
+    "8 AV/W 46 ST": [
+        "404872"
+    ],
+    "W 168 ST/AUDUBON AV": [
+        "404876"
+    ],
+    "9 AV/W 23 ST": [
+        "404881"
+    ],
+    "2 AV/E 36 ST": [
+        "404909"
+    ],
+    "FREDERICK DOUGLASS BL/W 116 ST": [
+        "404915"
+    ],
+    "BROADWAY/PRINCE ST": [
+        "404916"
+    ],
+    "BROADWAY/W 167 ST": [
+        "404918"
+    ],
+    "8 AV/W 43 ST": [
+        "404919"
+    ],
+    "MADISON ST/GRAND ST": [
+        "404922"
+    ],
+    "W 24 St/11 AV": [
+        "404926"
+    ],
+    "W 24 ST/12 AV": [
+        "404927"
+    ],
+    "PARK AV S/E 18 ST": [
+        "404936"
+    ],
+    "E 60 ST/YORK AV": [
+        "903094"
+    ],
+    "LEXINGTON AV/E 92 ST": [
+        "404947"
+    ],
+    "W 49 ST/8 AV": [
+        "404948"
+    ],
+    "E 34 ST /1 AV": [
+        "404950"
+    ],
+    "FERRY TERMINAL/FDR DRIVE": [
+        "404951"
+    ],
+    "ADAM C POWELL BL/W 119 ST": [
+        "404963"
+    ],
+    "CHAMBERS ST/GREENWICH ST": [
+        "404973"
+    ],
+    "CHAMBERS ST/W BROADWAY": [
+        "404976"
+    ],
+    "MALCOLM X B / W 119 ST": [
+        "404978"
+    ],
+    "BATTERY PL/3 PL": [
+        "404986"
+    ],
+    "BATTERY PL/1 PL": [
+        "404980"
+    ],
+    "BATTERY PL/WEST ST": [
+        "404983"
+    ],
+    "CENTRAL PK W/W 66 ST": [
+        "404987"
+    ],
+    "CENTRAL PK W/W 64 ST": [
+        "404988"
+    ],
+    "SPRING ST/GREENWICH ST": [
+        "404990"
+    ],
+    "AV OF THE AMERICAS/W 18 ST": [
+        "404991"
+    ],
+    "AV OF THE AMERICAS/W 57 ST": [
+        "404992"
+    ],
+    "MADISON AV/E 66 ST": [
+        "404994"
+    ],
+    "1 AV/E 28 ST": [
+        "404995"
+    ],
+    "E 92 ST/YORK AV": [
+        "405003"
+    ],
+    "MAIN RDY/OPP PARK & RECREATION": [
+        "405015"
+    ],
+    "CHURCH ST/WORTH ST": [
+        "405024"
+    ],
+    "9 AV/W 40 ST": [
+        "405026"
+    ],
+    "MURRAY ST/NORTH END AV": [
+        "405063"
+    ],
+    "NORTH END AV/WARREN ST": [
+        "405062"
+    ],
+    "LEXINGTON AV/E 119 ST": [
+        "405057"
+    ],
+    "3 AV/E 21 ST": [
+        "405061"
+    ],
+    "WEST ST/CHAMBERS ST": [
+        "405065"
+    ],
+    "LEXINGTON AV/E 89 ST": [
+        "405066"
+    ],
+    "STATE ST/WHITEHALL ST": [
+        "803185"
+    ],
+    "AMSTERDAM AV/W 175 ST": [
+        "405069"
+    ],
+    "AMSTERDAM AV/W 165 ST": [
+        "405070"
+    ],
+    "W 70 ST/WEST END AV": [
+        "405071"
+    ],
+    "AMSTERDAM AV/W 164 ST": [
+        "405075"
+    ],
+    "AMSTERDAM AV/W 167 ST": [
+        "405076"
+    ],
+    "AMSTERDAM AV/W 176 ST": [
+        "405077"
+    ],
+    "WEST END AV/WEST 70 ST": [
+        "405086"
+    ],
+    "MANHATTAN AV/W 111 ST": [
+        "405087"
+    ],
+    "FT GEORGE AV/66 FORT GEORGE AV": [
+        "903288"
+    ],
+    "MANHATTAN AV/W 113 ST": [
+        "405092"
+    ],
+    "1 AV / 4 ST": [
+        "405098"
+    ],
+    "1 AV/E 82 ST": [
+        "405100"
+    ],
+    "AMSTERDAM AV/W 149 ST": [
+        "405103"
+    ],
+    "ST NICHOLAS AV/W 165 ST": [
+        "405111"
+    ],
+    "RIVERSIDE BL/W 69 ST": [
+        "405112"
+    ],
+    "GREENWICH ST/HORATIO ST": [
+        "405120"
+    ],
+    "SOUTH END AV/GATEWAY PLAZA": [
+        "405124"
+    ],
+    "BOWERY/E 1 ST": [
+        "405130"
+    ],
+    "1 AV/E 60 ST": [
+        "405138"
+    ],
+    "MAIN RDY/OPP GOLF CTR PARKING": [
+        "405140"
+    ],
+    "10 AV/WEST 16 ST": [
+        "405151"
+    ],
+    "W 14 St/10 AV": [
+        "405152"
+    ],
+    "3 AV/E 9 ST": [
+        "405155"
+    ],
+    "11 AV/W 15 ST": [
+        "405157"
+    ],
+    "ESSEX ST/CANAL ST": [
+        "405165"
+    ],
+    "W HOUSTON ST/GREENE ST": [
+        "405172"
+    ],
+    "5 AV/W 44 ST": [
+        "405179"
+    ],
+    "3 AV/E 116 ST": [
+        "405181"
+    ],
+    "AMSTERDAM AV/W 183 ST": [
+        "405185"
+    ],
+    "AMSTERDAM AV/W 185 ST": [
+        "405186"
+    ],
+    "E 49 ST/2 Av": [
+        "405193"
+    ],
+    "ST NICHOLAS AV/W 147 ST": [
+        "405227"
+    ],
+    "BROADWAY/DUANE ST": [
+        "405230"
+    ],
+    "2 AV/E 92 ST": [
+        "405233"
+    ],
+    "BROADWAY/WEST 120 ST": [
+        "405234"
+    ],
+    "FREDERICK DOUGLASS BL/114 ST": [
+        "405247"
+    ],
+    "BROADWAY/W 97 ST": [
+        "405249"
+    ],
+    "TRINITY PL/MORRIS ST": [
+        "405256"
+    ],
+    "W 14 ST/9 AV": [
+        "405265"
+    ],
+    "BROADWAY/WALKER ST": [
+        "405266"
+    ],
+    "BOWERY/HESTER ST": [
+        "405269"
+    ],
+    "EAST 24 ST/LEXINGTON AV": [
+        "405272"
+    ],
+    "CHURCH ST/WARREN ST": [
+        "405279"
+    ],
+    "COLUMBUS AV/W 66 ST": [
+        "405283"
+    ],
+    "MALCOLM X BL/W 146 ST": [
+        "405284"
+    ],
+    "FREDERICK DOUGLASS/W 121 ST": [
+        "405289"
+    ],
+    "COLUMBUS AV/W 63 ST": [
+        "405290"
+    ],
+    "7 AV/W 57 ST": [
+        "405291"
+    ],
+    "7 AV/WEST 55 ST": [
+        "405293"
+    ],
+    "7 AV/W 44 ST": [
+        "405297"
+    ],
+    "7 AV/W 17 ST": [
+        "405298"
+    ],
+    "W 58 ST/BROADWAY": [
+        "405299"
+    ],
+    "2 AV/E 89 ST": [
+        "405307"
+    ],
+    "WEST 66 ST/FREEDOM PL": [
+        "405308"
+    ],
+    "E HOUSTON ST/1 AV": [
+        "405311"
+    ],
+    "PLEASANT AV/E 117 ST": [
+        "405315"
+    ],
+    "9 AV/W 25 ST": [
+        "405316"
+    ],
+    "ALLEN ST/GRAND ST": [
+        "405320"
+    ],
+    "WATER ST/GOUVERNEUR LA": [
+        "405337"
+    ],
+    "2 AV/E 13 ST": [
+        "405340"
+    ],
+    "2 AV/E 32 ST": [
+        "405342"
+    ],
+    "2 AV/E 115 ST": [
+        "405348"
+    ],
+    "COLUMBIA ST/HOUSTON ST": [
+        "405350"
+    ],
+    "LEWIS ST/GRAND ST": [
+        "405352"
+    ],
+    "PIKE ST/SOUTH  ST": [
+        "405359"
+    ],
+    "E HOUSTON ST/CROSBY ST": [
+        "405361"
+    ],
+    "GRAND ST/FDR DRIVE": [
+        "405372"
+    ],
+    "ALLEN ST/HESTER ST": [
+        "405373"
+    ],
+    "W 41 ST/8 AV": [
+        "803144"
+    ],
+    "BROADWAY/WEST 57 ST": [
+        "405376"
+    ],
+    "BROADWAY/FRANKLIN ST": [
+        "405377"
+    ],
+    "MADISON AV/E 28 ST": [
+        "405380"
+    ],
+    "MURRAY ST/CHURCH ST": [
+        "405386"
+    ],
+    "YORK AV/E 62 ST": [
+        "405389"
+    ],
+    "8 AV/W  56 ST": [
+        "405393"
+    ],
+    "BROADWAY/WEST 105 ST": [
+        "405394"
+    ],
+    "1 AV/E 27 ST": [
+        "405396"
+    ],
+    "11 AV/W 54 ST": [
+        "405443"
+    ],
+    "11 AV/W 50 ST": [
+        "405444"
+    ],
+    "11 AV/ W 47 ST": [
+        "405445"
+    ],
+    "11 AV/W 44 ST": [
+        "405446"
+    ],
+    "11 AV/W 38 ST": [
+        "405447"
+    ],
+    "11 AV/W 26 ST": [
+        "405450"
+    ],
+    "11 AV/W 23 ST": [
+        "405451"
+    ],
+    "8 Av/W 12 ST": [
+        "405452"
+    ],
+    "12 AV/ W 27 ST": [
+        "405455"
+    ],
+    "12 AV/W 30 ST": [
+        "405456"
+    ],
+    "12 AV/W 33 ST": [
+        "405457"
+    ],
+    "12 AV/W 40 ST": [
+        "405458"
+    ],
+    "12 AV/W 52 ST": [
+        "405459"
+    ],
+    "12 AV/W 55 ST": [
+        "405460"
+    ],
+    "3 AV/E 57 ST": [
+        "405480"
+    ],
+    "5 AV/W 36 ST": [
+        "405486"
+    ],
+    "3 AV/E 53 ST": [
+        "405488"
+    ],
+    "W 44 ST/6 AV": [
+        "803081"
+    ],
+    "11 AV/ W 18 ST": [
+        "405531"
+    ],
+    "BROADWAY/W 89 ST": [
+        "405541"
+    ],
+    "11 AV/W 58 ST": [
+        "405562"
+    ],
+    "11 AV/W 29 ST": [
+        "405564"
+    ],
+    "W HOUSTON ST/VARICK ST": [
+        "405575"
+    ],
+    "6 AV/GRAND ST": [
+        "405635"
+    ],
+    "MAIN RWDY/TENNIS CENTER 2": [
+        "414350"
+    ],
+    "3 AV/E 63 ST": [
+        "450051"
+    ],
+    "5 AV/W 50 ST": [
+        "450123"
+    ],
+    "W 18 ST / 10 AV": [
+        "450222"
+    ],
+    "3 AV/E 121 ST": [
+        "450492"
+    ],
+    "HOYT AV/31 ST": [
+        "504007"
+    ],
+    "LaGUARDIA/TERMINAL C": [
+        "503848"
+    ],
+    "LAGUARDIA/TERMINAL A - MARINE AIR TERMINAL": [
+        "503853"
+    ],
+    "DITMARS BL/GRAND CENTRAL PY": [
+        "503855"
+    ],
+    "ASTORIA BL/STEINWAY ST": [
+        "503870"
+    ],
+    "23 AV/87 ST": [
+        "503876"
+    ],
+    "94 ST/23 AV": [
+        "504023"
+    ],
+    "23 AV/82 ST": [
+        "504417"
+    ],
+    "ASTORIA BL S/77 ST": [
+        "504423"
+    ],
+    "ASTORIA BL N/77 ST": [
+        "504517"
+    ],
+    "ASTORIA BL S/STEINWAY ST": [
+        "505254"
+    ],
+    "SOUTH ST/WHITEHALL ST": [
+        "803019"
+    ],
+    "146 ST/LENOX AV": [
+        "803003"
+    ],
+    "W 58 St/BROADWAY": [
+        "803008"
+    ],
+    "AMSTERDAM AV/193 ST": [
+        "803020"
+    ],
+    "HELL GATE CIRCLE/CENTRAL RD": [
+        "803021"
+    ],
+    "W 146 ST/MALCOLM X  BL": [
+        "803024"
+    ],
+    "SUNKEN GARDEN LOOP/CHARLES H GAY CTR": [
+        "803026"
+    ],
+    "HELL GATE CIRCLE/SUNKEN GARDEN LOOP": [
+        "803028"
+    ],
+    "HELL GATE CIRCLE/Opp ODYSSEY House": [
+        "803029"
+    ],
+    "HELL GATE CIRCLE/FIELD 61": [
+        "803030"
+    ],
+    "SUNKEN GARDEN LOOP/Charles Gay CTR": [
+        "803034"
+    ],
+    "12 AV/42 ST": [
+        "803055"
+    ],
+    "W 66 ST/FREEDOM PL": [
+        "803056"
+    ],
+    "E 105 ST/FDR DR": [
+        "803066"
+    ],
+    "W 34 ST/HUDSON BL": [
+        "803079"
+    ],
+    "W 31 ST/6 AV": [
+        "803082"
+    ],
+    "6 AV/W 31 ST": [
+        "803083"
+    ],
+    "WARREN ST/CHURCH ST": [
+        "803105"
+    ],
+    "SOUTH FERRY/TERMINAL": [
+        "803121"
+    ],
+    "W 34 ST/12 AV": [
+        "803131"
+    ],
+    "WARREN ST/GREENWICH ST": [
+        "803147"
+    ],
+    "49 ST/1 AV": [
+        "803151"
+    ],
+    "BROADWAY / W 123 ST": [
+        "803156"
+    ],
+    "BROADWAY/W 135 ST": [
+        "903236"
+    ],
+    "LEXINGTON AV/E 64 ST": [
+        "803158"
+    ],
+    "5 AV/E 81 ST": [
+        "803162"
+    ],
+    "LEXINGTON AV/E 52 ST": [
+        "803163"
+    ],
+    "BATTERY PL/WASHINGTON ST": [
+        "803164"
+    ],
+    "MALCOLM X BL/W 124 ST": [
+        "803165"
+    ],
+    "AV D/LOOP": [
+        "803177"
+    ],
+    "CENTRE ST/BROOME ST": [
+        "903130"
+    ],
+    "RIVERBANK/STATE PARK": [
+        "803195"
+    ],
+    "triboro br/ramp": [
+        "803215"
+    ],
+    "10 AV/W 40 ST": [
+        "803217"
+    ],
+    "2 AV/E 111 ST": [
+        "803228"
+    ],
+    "RIVERS EDGE RD/MAN PSYCH CTR ENT": [
+        "803238"
+    ],
+    "MAIN ROADWAY/MANHATTAN PSYCH CENTER": [
+        "803239"
+    ],
+    "LAGUARDIA/TERMINAL  C": [
+        "804142"
+    ],
+    "3 AV/E 150 ST": [
+        "902208"
+    ],
+    "WATERSIDE/WATERSIDE": [
+        "903027"
+    ],
+    "FERRY TERMINAL/FDR DR": [
+        "903028"
+    ],
+    "3 AV /E 125 ST": [
+        "903042"
+    ],
+    "168 ST/AUDUBON AV": [
+        "903049"
+    ],
+    "MADISON ST/ST JAMES PL": [
+        "903054"
+    ],
+    "8 AV/12 ST": [
+        "903063"
+    ],
+    "W 43 ST/9 AV": [
+        "903078"
+    ],
+    "1 AV/E 26 ST": [
+        "903080"
+    ],
+    "12 AV/W 42 ST": [
+        "903082"
+    ],
+    "DELANCY ST/COLUMBIA ST": [
+        "903088"
+    ],
+    "1 AV/E 1 ST": [
+        "903093"
+    ],
+    "1 AV/ E 97 ST": [
+        "903102"
+    ],
+    "E 32 ST/5 AV": [
+        "903128"
+    ],
+    "2 AV/E 86 ST": [
+        "903129"
+    ],
+    "ASTOR PL/3 AV": [
+        "903147"
+    ],
+    "central park south/7 Av (does not stop)": [
+        "903169"
+    ],
+    "AV OF THE AMERICAS/W 14 ST": [
+        "903176"
+    ],
+    "Columbus Circle (does not stop)": [
+        "903209"
+    ],
+    "W 72 ST/Amsterdam av ( non-public,for GEO)": [
+        "903218"
+    ],
+    "COL circle- does not stop": [
+        "903233"
+    ],
+    "11 AV / W 17 ST": [
+        "903237"
+    ],
+    "2 AV/E 33 ST": [
+        "903266"
+    ],
+    "10 AV/W 34 ST": [
+        "903267"
+    ],
+    "1 AV/E 97 ST": [
+        "903275"
+    ],
+    "COOPER SQ/E 4 ST": [
+        "903276"
+    ],
+    "PARK ROW/SPRUCE ST": [
+        "903280"
+    ],
+    "PARK ROW/BEEKMAN ST": [
+        "903282"
+    ],
+    "7 AV/W 15 ST": [
+        "903285"
+    ],
+    "ST NICHOLAS AV/W 189 ST": [
+        "903287"
+    ],
+    "MADISON AV/E 79 ST": [
+        "903291"
+    ],
+    "WATER ST/BROAD ST": [
+        "903296"
+    ],
+    "BROAD ST/SOUTH ST": [
+        "903297"
+    ],
+    "MURRAY ST/WEST BROADWAY": [
+        "903298"
+    ],
+    "BROADWAY/W 85 ST": [
+        "903299"
+    ],
+    "LAGUARDIA/TERMINAL B": [
+        "904242"
+    ],
+    "LAGUARDIA RD/94 ST": [
+        "904246"
+    ],
+    "EAST 92 ST/YORK AV": [
+        "904918"
+    ],
+    "PIKE ST/SOUTH ST": [
+        "904920"
+    ]
+}
