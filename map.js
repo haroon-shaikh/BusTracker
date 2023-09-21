@@ -78,7 +78,7 @@ function getMonitoring(name) {
 
 async function getRealTime(mon) {
     return new Promise((resolve, reject) => {
-        const apiKey = '66d82ac2-9e2f-4d03-9b88-f169b8dd85bf';
+        const apiKey = 'useAPIKEY';
         const baseURL = 'https://bustime.mta.info/api/siri/stop-monitoring.json';
         const operatorRef = 'MTA';
         const monitoringRef = mon;
