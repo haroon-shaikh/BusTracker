@@ -1,7 +1,7 @@
 # BusTracker
 
 Welcome to bus tracker 
-To get started past MTA API key into rgw varuable API key in map.js
+To get started, enter the  MTA API key into the  variable API key in map.js
 
 Once you start the file it should look like this 
 
